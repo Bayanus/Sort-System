@@ -190,7 +190,7 @@ while true do
 
             local itemName = getItemName(item)
             local catDisplay = category or "Fallback"
-            local moveStr = string.format("%s → %s (x%d)", itemName, catDisplay, moved)
+            local moveStr = string.format("%s -> %s (x%d)", itemName, catDisplay, moved)
 
             -- Add to recent
             table.insert(recentMoves, 1, moveStr)
