@@ -4,8 +4,8 @@
 -- CONFIG
 -- ────────────────────────────────────────────────
 
-local INPUT_CHEST_NAME  = "minecraft:chest_2"   -- input chest
-local FALLBACK_CHEST    = "minecraft:chest_45"  -- fallback
+local INPUT_CHEST_NAME  = "minecraft:chest_6"   -- input chest
+local FALLBACK_CHEST    = "minecraft:hopper_45"  -- fallback
 
 local FILTER_FILE = "filtClean.json"
 
@@ -176,7 +176,7 @@ while true do
 
         local targetChestName
         if category and CATEGORY_CHESTS[category] then
-            targetChestName = "minecraft:chest_" .. CATEGORY_CHESTS[category]
+            targetChestName = "minecraft:hopper_" .. CATEGORY_CHESTS[category]
         else
             targetChestName = FALLBACK
         end
