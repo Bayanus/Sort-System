@@ -127,7 +127,7 @@ local function drawUI()
     -- Top categories (sorted by count)
     local yCatStart = math.max(y + 1, 14)
     monitor.setCursorPos(1, yCatStart)
-    monitor.setTextColor(colors.aqua)
+    monitor.setTextColor(colors.blue)
     monitor.write("Top categories:")
     monitor.setTextColor(colors.white)
 
