@@ -1,105 +1,175 @@
--- CC:Tweaked sorter
--- Supports filtClean.json (array-based mapping)
--- Deterministic, no guessing
+-- sort.lua with monitor stats (English only)
 
-local fs = fs
-local peripheral = peripheral
-local textutils = textutils
+local json = require("json")  -- если используешь cc-tweaked-json или textutils
 
--- =========================
--- LOAD FILTER
--- =========================
+-- ────────────────────────────────────────────────
+-- CONFIG
+-- ────────────────────────────────────────────────
+
+local INPUT_CHEST_NAME  = "minecraft:chest_2"   -- input chest
+local FALLBACK_CHEST    = "minecraft:hopper_45"  -- fallback
 
 local FILTER_FILE = "filtClean.json"
-local CATEGORY_CHESTS = require("category_chests")
 
-if not fs.exists(FILTER_FILE) then
-  error("filtClean.json not found")
+-- ────────────────────────────────────────────────
+-- Globals for stats
+-- ────────────────────────────────────────────────
+
+local stats = {
+    totalProcessed = 0,
+    fallbackCount  = 0,
+    byCategory     = {},     -- category → count
+}
+
+-- ────────────────────────────────────────────────
+-- Find monitor automatically
+-- ────────────────────────────────────────────────
+
+local monitor = peripheral.find("monitor")
+if not monitor then
+    printError("No monitor found nearby!")
+    return
 end
 
-local f = fs.open(FILTER_FILE, "r")
-local rawFilter = textutils.unserializeJSON(f.readAll())
-f.close()
+-- Setup monitor
+monitor.setTextScale(0.5)   -- smaller text = more fits (0.5–2.0)
+local w, h = monitor.getSize()
+monitor.setBackgroundColor(colors.black)
+monitor.clear()
 
-if type(rawFilter) ~= "table" then
-  error("Invalid filtClean.json format (expected array)")
-end
-
--- =========================
--- BUILD LOOKUP
--- =========================
+-- ────────────────────────────────────────────────
+-- Load filter
+-- ────────────────────────────────────────────────
 
 local ITEM_TO_CATEGORY = {}
+local filterFile = fs.open(FILTER_FILE, "r")
+if filterFile then
+    local content = filterFile.readAll()
+    filterFile.close()
 
-for _, entry in ipairs(rawFilter) do
-  if entry.id and entry.category then
-    ITEM_TO_CATEGORY[entry.id] = entry.category
-  end
+    local data = textutils.unserializeJSON(content)
+    if data and type(data) == "table" then
+        for _, entry in ipairs(data) do
+            local id = entry.id
+            -- Safety: add minecraft: if missing (vanilla items)
+            if not id:find(":", 1, true) then
+                id = "minecraft:" .. id
+            end
+            ITEM_TO_CATEGORY[id] = entry.category
+        end
+        print("Loaded " .. #data .. " filter entries")
+    else
+        printError("Failed to parse " .. FILTER_FILE)
+    end
+else
+    printError("Cannot open " .. FILTER_FILE)
 end
 
-print("Loaded filter entries: " .. tostring(#rawFilter))
+-- ────────────────────────────────────────────────
+-- Category → chest mapping (from your category_chests.lua)
+-- ────────────────────────────────────────────────
 
--- =========================
--- CONFIG
--- =========================
+local CATEGORY_CHESTS = dofile("category_chests.lua") or {}
+local FALLBACK = FALLBACK_CHEST
 
-local INPUT = "minecraft:chest_6"
-local FALLBACK = "minecraft:hopper_45"
+-- ────────────────────────────────────────────────
+-- Helpers
+-- ────────────────────────────────────────────────
 
-local input = peripheral.wrap(INPUT)
-if not input then
-  error("Input chest not found")
+local function wrapPeripheral(name)
+    local p = peripheral.wrap(name)
+    if not p then
+        print("Warning: chest " .. name .. " not found!")
+    end
+    return p
 end
 
--- =========================
--- SORT LOOP
--- =========================
+local input = wrapPeripheral(INPUT_CHEST_NAME)
+local fallbackChest = wrapPeripheral(FALLBACK)
 
-local function stripNamespace(id)
-  return id:match(":(.+)") or id
+-- ────────────────────────────────────────────────
+-- Draw beautiful monitor UI
+-- ────────────────────────────────────────────────
+
+local function drawUI()
+    monitor.clear()
+    monitor.setCursorPos(1,1)
+    monitor.setTextColor(colors.cyan)
+    monitor.write("=== Auto Sorter v2 ===")
+    monitor.setTextColor(colors.white)
+
+    monitor.setCursorPos(1,3)
+    monitor.write("Total processed: " .. stats.totalProcessed)
+
+    monitor.setCursorPos(1,4)
+    monitor.setTextColor(colors.orange)
+    monitor.write("Fallback: " .. stats.fallbackCount)
+    monitor.setTextColor(colors.white)
+
+    monitor.setCursorPos(1,6)
+    monitor.write("By category:")
+
+    local y = 7
+    for cat, count in pairs(stats.byCategory) do
+        if count > 0 and y <= h-2 then
+            monitor.setCursorPos(3, y)
+            monitor.setTextColor(colors.lime)
+            monitor.write(string.format("%-28s : %4d", cat:sub(1,28), count))
+            monitor.setTextColor(colors.white)
+            y = y + 1
+        end
+    end
+
+    -- Frame
+    monitor.setCursorPos(1,2)
+    monitor.blit(string.rep("\131", w), string.rep("0", w), string.rep("f", w))
+    monitor.setCursorPos(1,h)
+    monitor.blit(string.rep("\143", w), string.rep("f", w), string.rep("0", w))
 end
+
+-- ────────────────────────────────────────────────
+-- Main loop
+-- ────────────────────────────────────────────────
+
+drawUI()  -- initial draw
 
 while true do
-  local items = input.list()
-  
-  for slot, item in pairs(items) do
-    local category = ITEM_TO_CATEGORY[item.name]
-    -- Debug ──────────────────────────────────────────────────────────────
-    print("──────────────────────────────────────────────")
-    print("Item: " .. item.name .. " (count: " .. item.count .. ")")
-    print("  Category from JSON: " .. (category or "NIL — no in filtClean.json"))
-    if category then
-        local chestNum = CATEGORY_CHESTS[category]
-        print("  Found in category_chests: " .. (chestNum and tostring(chestNum) or "no this key → fallback"))
-        print("  Full key used for lookup: '" .. category .. "'")
-    else
-        print("  → Reason: items pizda rulyam")
-    end
-  -- ─────────────────────────────────────────────────────────────────────
-    local targetChest
-    local categoryName
-
-    if category and CATEGORY_CHESTS[category] then
-      targetChest = "minecraft:hopper_" .. CATEGORY_CHESTS[category]
-      categoryName = category
-    else
-      targetChest = FALLBACK
-      categoryName = "Fallback"
+    local items = input.list()
+    if not items or next(items) == nil then
+        sleep(1)
+        goto continue
     end
 
-    local moved = input.pushItems(targetChest, slot)
+    for slot, item in pairs(items) do
+        local moved = 0
+        local category = ITEM_TO_CATEGORY[item.name]
 
-    if moved > 0 then
-      print(
-        stripNamespace(item.name)
-        .. " -> "
-        .. categoryName
-        .. " ("
-        .. moved
-        .. ")"
-      )
+        local targetChestName
+        if category and CATEGORY_CHESTS[category] then
+            targetChestName = "minecraft:hopper_" .. CATEGORY_CHESTS[category]
+        else
+            targetChestName = FALLBACK
+        end
+
+        local target = wrapPeripheral(targetChestName)
+        if target then
+            moved = input.pushItems(targetChestName, slot, item.count)
+        end
+
+        if moved > 0 then
+            stats.totalProcessed = stats.totalProcessed + moved
+
+            if targetChestName == FALLBACK then
+                stats.fallbackCount = stats.fallbackCount + moved
+            else
+                local catKey = category or "Unknown"
+                stats.byCategory[catKey] = (stats.byCategory[catKey] or 0) + moved
+            end
+
+            drawUI()  -- redraw every move (can be optimized later)
+        end
     end
-  end
 
-  sleep(0.5)
+    ::continue::
+    sleep(0.4)  -- don't overload the server
 end
