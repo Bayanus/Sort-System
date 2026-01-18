@@ -1,7 +1,3 @@
--- sort.lua with monitor stats (English only)
-
-local json = require("json")  -- если используешь cc-tweaked-json или textutils
-
 -- ────────────────────────────────────────────────
 -- CONFIG
 -- ────────────────────────────────────────────────
