@@ -1,104 +1,85 @@
--- category_chests.lua
--- Maps JSON category names -> chest numbers
--- Only edit this file to change sorting destinations
-
 return {
 
-  -- =========================
-  -- MANUAL / FALLBACK
-  -- =========================
-  ManualSorting = 45,
+    -- =========================
+    -- MANUAL / FALLBACK
+    -- =========================
+    ["ManualSorting"] = 23,
 
-  -- =========================
-  -- BLOCKS
-  -- =========================
+    -- =========================
+    -- BLOCKS ────────────────────────
+    -- =========================
 
-  OverworldNatural = 8,
-  NetherNatural    = 10,
-  EndNatural       = 12,
+    -- Wood group
+    ["Blocks/Wood/Logs"]    = 46,
+    ["Blocks/Wood/Planks"]  = 45,
 
-  BuildingFull     = 5,
-  BuildingShaped   = 6,
+    -- Building group
+    ["Blocks/Building/FullBlocks"]   =44,
+    ["Blocks/Building/PartialBlocks"] = 43,
 
-  WoodLogs         = 3,
-  WoodPlanks       = 4,
+    -- Other Blocks subgroups
+    ["Blocks/Functional"]            = 36,
+    ["Blocks/Overworld/Natural"]     = 42,
+    ["Blocks/Nether/OtherNez"]       = 40,   -- или 11, если 10 занят
+    ["Blocks/End/OtherEnd"]          = 38,
 
-  FunctionalBlocks = 7,
+    -- =========================
+    -- EQUIPMENT ─────────────────────
+    -- =========================
+    ["Equipment/Tools"]              = 13,
+    ["Equipment/Weapons/Melee"]      = 14,
+    ["Equipment/Weapons/Ranged"]     = 15,
+    ["Equipment/Ammunition"]         = 16,
+    ["Equipment/Armor"]              = 17,
 
-  -- =========================
-  -- EQUIPMENT
-  -- =========================
+    -- =========================
+    -- VALUABLE RESOURCES ────────────
+    -- =========================
+    ["ValuableResources/Iron"]       = 2,
+    ["ValuableResources/Gold"]       = 3,
+    ["ValuableResources/Diamonds"]   = 4,
+    ["ValuableResources/Emeralds"]   = 5,
+    ["ValuableResources/Copper"]     = 6,
+    ["ValuableResources/Coal"]       = 7,
+    ["ValuableResources/OtherRes"]   = 8,   -- catch-all
 
-  MeleeWeapons = 14,
-  RangedWeapons = 15,
-  Ammo = 16,
-  Armor = 17,
-  Tools = 18,
+    -- =========================
+    -- FOOD ──────────────────────────
+    -- =========================
+    ["Food/Raw/Plant"]               = 9,
+    ["Food/Raw/MeatFish"]            = 10,
+    ["Food/Raw/OtherFood"]           = 11,
+    ["Food/Cooked"]                  = 12,
 
-  -- =========================
-  -- RESOURCES
-  -- =========================
+    -- =========================
+    -- MAGIC / BREWING ───────────────
+    -- =========================
+    ["Magic/EnchantedBooks"]         = 18,
+    ["Magic/Potions"]                = 20,
+    ["Magic/Alchemy"]                = 21,
 
-  Iron     = 19,
-  Gold     = 20,
-  Diamond  = 21,
-  Emerald  = 22,
-  Copper  = 23,
-  Coal    = 24,
-  OtherOres = 25,
+    -- =========================
+    -- PLANTS / CROPS ────────────────
+    -- =========================
+    ["Plants/Saplings"]              = 25,
+    ["Plants/Seeds"]                 = 26,
+    ["Plants/Bamboo"]                = 27,
+    ["Plants/Cactus"]                = 28,
+    ["Plants/Wheat"]                 = 29,
+    ["Plants/SugarCane"]             = 30,
+    ["Plants/Flowers"]               = 31,
 
-  -- =========================
-  -- CRAFT
-  -- =========================
+    -- =========================
+    -- MECHANISMS / REDSTONE / MODS ──
+    -- =========================
+    ["Mechanisms/Redstone"]          = 36,
+    ["Mechanisms/Vanilla"]           = 35,
+    ["Mechanisms/RailsMinecarts"]    = 34,
+    ["Mechanisms/PolyfactoryMaterials"] = 33,
+    ["Mechanisms/PolyfactoryMachines"]  = 32,
 
-  Materials     = 1,
-  
-  -- =========================
-  -- FOOD
-  -- =========================
-
-  RawCrops   = 26,
-  RawMeat    = 27,
-  RawMeals  = 28,
-
-  CookedCrops  = 29,
-  CookedMeat   = 30,
-  CookedMeals  = 31,
-
-  -- =========================
-  -- MOB DROPS
-  -- =========================
-
-  MobFlesh = 45,
-  MobDrops = 2,
-
-  -- =========================
-  -- MECHANISMS
-  -- =========================
-
-  Redstone = 35,
-  Rails = 34,
-
-  PolyfactoryMaterials = 33,
-  PolyfactoryMachines = 32,
-
-  -- =========================
-  -- MAGIC
-  -- =========================
-
-  EnchantedBooks = 34,
-  Potions = 35,
-  Alchemy = 36,
-
-  -- =========================
-  -- PLANTS
-  -- =========================
-
-  Saplings = 38,
-  Seeds = 39,
-  Bamboo = 40,
-  Cactus = 41,
-  Wheat = 42,
-  SugarCane = 43,
-  Flowers = 44,
+    -- =========================
+    -- CRAFTING ──────────────────────
+    -- =========================
+    ["Crafting/Materials"]           = 0,   -- или куда удобно
 }
