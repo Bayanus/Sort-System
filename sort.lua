@@ -31,7 +31,7 @@ if not monitor then
 end
 
 -- Setup monitor: BIGGER FONT
-monitor.setTextScale(1.0)   -- Bigger: 1.0 (fits ~26x19 on 5x3 monitor)
+monitor.setTextScale(0.6)   -- Bigger: 1.0 (fits ~26x19 on 5x3 monitor)
 local w, h = monitor.getSize()
 monitor.setBackgroundColor(colors.black)
 monitor.clear()
