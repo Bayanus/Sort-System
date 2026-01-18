@@ -1,9 +1,11 @@
+-- sort.lua with monitor stats (English only, bigger font, recent items)
+
 -- ────────────────────────────────────────────────
 -- CONFIG
 -- ────────────────────────────────────────────────
 
 local INPUT_CHEST_NAME  = "minecraft:chest_2"   -- input chest
-local FALLBACK_CHEST    = "minecraft:hopper_45"  -- fallback
+local FALLBACK_CHEST    = "minecraft:chest_45"  -- fallback
 
 local FILTER_FILE = "filtClean.json"
 
@@ -17,6 +19,8 @@ local stats = {
     byCategory     = {},     -- category → count
 }
 
+local recentMoves = {}       -- Last 8 moves: "Oak Log → Logs (x64)"
+
 -- ────────────────────────────────────────────────
 -- Find monitor automatically
 -- ────────────────────────────────────────────────
@@ -27,8 +31,8 @@ if not monitor then
     return
 end
 
--- Setup monitor
-monitor.setTextScale(0.5)   -- smaller text = more fits (0.5–2.0)
+-- Setup monitor: BIGGER FONT
+monitor.setTextScale(1.0)   -- Bigger: 1.0 (fits ~26x19 on 5x3 monitor)
 local w, h = monitor.getSize()
 monitor.setBackgroundColor(colors.black)
 monitor.clear()
@@ -62,7 +66,7 @@ else
 end
 
 -- ────────────────────────────────────────────────
--- Category → chest mapping (from your category_chests.lua)
+-- Category → chest mapping
 -- ────────────────────────────────────────────────
 
 local CATEGORY_CHESTS = dofile("category_chests.lua") or {}
@@ -81,7 +85,11 @@ local function wrapPeripheral(name)
 end
 
 local input = wrapPeripheral(INPUT_CHEST_NAME)
-local fallbackChest = wrapPeripheral(FALLBACK)
+
+-- Get nice item name
+local function getItemName(item)
+    return item.displayName or (item.name:gsub("^[^:]+:", ""):gsub("_", " "))
+end
 
 -- ────────────────────────────────────────────────
 -- Draw beautiful monitor UI
@@ -91,47 +99,73 @@ local function drawUI()
     monitor.clear()
     monitor.setCursorPos(1,1)
     monitor.setTextColor(colors.cyan)
-    monitor.write("=== Auto Sorter v2 ===")
+    monitor.write("=== AUTO SORTER v2.1 ===")
     monitor.setTextColor(colors.white)
 
+    -- Totals
     monitor.setCursorPos(1,3)
-    monitor.write("Total processed: " .. stats.totalProcessed)
-
+    monitor.write("Total: " .. stats.totalProcessed)
     monitor.setCursorPos(1,4)
     monitor.setTextColor(colors.orange)
     monitor.write("Fallback: " .. stats.fallbackCount)
     monitor.setTextColor(colors.white)
 
+    -- Recent moves
     monitor.setCursorPos(1,6)
-    monitor.write("By category:")
-
+    monitor.setTextColor(colors.yellow)
+    monitor.write("Recent moves:")
+    monitor.setTextColor(colors.white)
     local y = 7
-    for cat, count in pairs(stats.byCategory) do
-        if count > 0 and y <= h-2 then
-            monitor.setCursorPos(3, y)
-            monitor.setTextColor(colors.lime)
-            monitor.write(string.format("%-28s : %4d", cat:sub(1,28), count))
-            monitor.setTextColor(colors.white)
-            y = y + 1
-        end
+    for i, moveStr in ipairs(recentMoves) do
+        if y > h - 4 then break end  -- Leave space for categories
+        monitor.setCursorPos(2, y)
+        monitor.setTextColor(colors.lime)
+        monitor.write(moveStr)
+        monitor.setTextColor(colors.white)
+        y = y + 1
     end
 
-    -- Frame
-    monitor.setCursorPos(1,2)
-    monitor.blit(string.rep("\131", w), string.rep("0", w), string.rep("f", w))
-    monitor.setCursorPos(1,h)
-    monitor.blit(string.rep("\143", w), string.rep("f", w), string.rep("0", w))
+    -- Top categories (sorted by count)
+    local yCatStart = math.max(y + 1, 14)
+    monitor.setCursorPos(1, yCatStart)
+    monitor.setTextColor(colors.aqua)
+    monitor.write("Top categories:")
+    monitor.setTextColor(colors.white)
+
+    -- Sort and show top 6
+    local sortedCats = {}
+    for cat, cnt in pairs(stats.byCategory) do
+        table.insert(sortedCats, {name=cat, cnt=cnt})
+    end
+    table.sort(sortedCats, function(a, b) return a.cnt > b.cnt end)
+
+    y = yCatStart + 1
+    for i = 1, math.min(6, #sortedCats) do
+        if y > h - 1 then break end
+        local cat = sortedCats[i].name
+        local cnt = sortedCats[i].cnt
+        monitor.setCursorPos(3, y)
+        monitor.setTextColor(colors.lime)
+        monitor.write(string.format("%-22s: %d", cat:sub(1,22), cnt))
+        y = y + 1
+    end
+
+    -- Bottom frame
+    monitor.setCursorPos(1, h)
+    monitor.setTextColor(colors.gray)
+    monitor.write(string.rep("-", w))
 end
 
 -- ────────────────────────────────────────────────
 -- Main loop
 -- ────────────────────────────────────────────────
 
-drawUI()  -- initial draw
+local lastRedraw = 0
+drawUI()  -- initial
 
 while true do
-    local items = input.list()
-    if not items or next(items) == nil then
+    local items = input and input.list() or {}
+    if next(items) == nil then
         sleep(1)
         goto continue
     end
@@ -142,7 +176,7 @@ while true do
 
         local targetChestName
         if category and CATEGORY_CHESTS[category] then
-            targetChestName = "minecraft:hopper_" .. CATEGORY_CHESTS[category]
+            targetChestName = "minecraft:chest_" .. CATEGORY_CHESTS[category]
         else
             targetChestName = FALLBACK
         end
@@ -155,17 +189,32 @@ while true do
         if moved > 0 then
             stats.totalProcessed = stats.totalProcessed + moved
 
+            local itemName = getItemName(item)
+            local catDisplay = category or "Fallback"
+            local moveStr = string.format("%s → %s (x%d)", itemName, catDisplay, moved)
+
+            -- Add to recent
+            table.insert(recentMoves, 1, moveStr)
+            if #recentMoves > 8 then
+                table.remove(recentMoves)
+            end
+
+            -- Update stats
             if targetChestName == FALLBACK then
                 stats.fallbackCount = stats.fallbackCount + moved
             else
-                local catKey = category or "Unknown"
-                stats.byCategory[catKey] = (stats.byCategory[catKey] or 0) + moved
+                stats.byCategory[category] = (stats.byCategory[category] or 0) + moved
             end
 
-            drawUI()  -- redraw every move (can be optimized later)
+            -- Redraw (throttled)
+            local now = os.clock()
+            if now - lastRedraw > 0.5 then  -- Update every 0.5s max
+                drawUI()
+                lastRedraw = now
+            end
         end
     end
 
     ::continue::
-    sleep(0.4)  -- don't overload the server
+    sleep(0.3)
 end
