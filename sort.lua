@@ -43,8 +43,8 @@ print("Loaded filter entries: " .. tostring(#rawFilter))
 -- CONFIG
 -- =========================
 
-local INPUT = "minecraft:chest_2"
-local FALLBACK = "minecraft:chest_45"
+local INPUT = "minecraft:chest_6"
+local FALLBACK = "minecraft:hopper_45"
 
 local input = peripheral.wrap(INPUT)
 if not input then
@@ -68,7 +68,7 @@ while true do
     local categoryName
 
     if category and CATEGORY_CHESTS[category] then
-      targetChest = "minecraft:chest_" .. CATEGORY_CHESTS[category]
+      targetChest = "minecraft:hopper_" .. CATEGORY_CHESTS[category]
       categoryName = category
     else
       targetChest = FALLBACK
