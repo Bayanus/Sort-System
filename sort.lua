@@ -99,13 +99,13 @@ local function drawUI()
     monitor.setCursorPos(1,1)
     monitor.setTextColor(colors.cyan)
     monitor.write("=== AUTO SORTER v2.1 ===")
-    monitor.setTextColor(colors.white)
+    monitor.setTextColor(colors.green)
 
     -- Totals
     monitor.setCursorPos(1,3)
     monitor.write("Total: " .. stats.totalProcessed)
     monitor.setCursorPos(1,4)
-    monitor.setTextColor(colors.orange)
+    monitor.setTextColor(colors.red)
     monitor.write("Fallback: " .. stats.fallbackCount)
     monitor.setTextColor(colors.white)
 
