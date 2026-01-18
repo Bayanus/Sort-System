@@ -4,7 +4,7 @@
 -- CONFIG
 -- ────────────────────────────────────────────────
 
-colors = colors
+local colors = require("colors")
 
 local INPUT_CHEST_NAME  = "minecraft:chest_6"   -- input chest
 local FALLBACK_CHEST    = "minecraft:hopper_45"  -- fallback
