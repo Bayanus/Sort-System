@@ -16,167 +16,167 @@
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_oak_wood",
+    "id": "minecraft:stripped_oak_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_spruce_wood",
+    "id": "minecraft:stripped_spruce_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_birch_wood",
+    "id": "minecraft:stripped_birch_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_jungle_wood",
+    "id": "minecraft:stripped_jungle_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_acacia_wood",
+    "id": "minecraft:stripped_acacia_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_cherry_wood",
+    "id": "minecraft:stripped_cherry_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_dark_oak_wood",
+    "id": "minecraft:stripped_dark_oak_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_pale_oak_wood",
+    "id": "minecraft:stripped_pale_oak_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_mangrove_wood",
+    "id": "minecraft:stripped_mangrove_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "oak_wood",
+    "id": "minecraft:oak_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "spruce_wood",
+    "id": "minecraft:spruce_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "birch_wood",
+    "id": "minecraft:birch_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "jungle_wood",
+    "id": "minecraft:jungle_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "acacia_wood",
+    "id": "minecraft:acacia_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "cherry_wood",
+    "id": "minecraft:cherry_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "pale_oak_wood",
+    "id": "minecraft:pale_oak_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "dark_oak_wood",
+    "id": "minecraft:dark_oak_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "mangrove_wood",
+    "id": "minecraft:mangrove_wood",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "oak_log",
+    "id": "minecraft:oak_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "spruce_log",
+    "id": "minecraft:spruce_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "birch_log",
+    "id": "minecraft:birch_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "jungle_log",
+    "id": "minecraft:jungle_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "acacia_log",
+    "id": "minecraft:acacia_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "cherry_log",
+    "id": "minecraft:cherry_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "pale_oak_log",
+    "id": "minecraft:pale_oak_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "dark_oak_log",
+    "id": "minecraft:dark_oak_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "mangrove_log",
+    "id": "minecraft:mangrove_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "crimson_stem",
+    "id": "minecraft:crimson_stem",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "warped_stem",
+    "id": "minecraft:warped_stem",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_oak_log",
+    "id": "minecraft:stripped_oak_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_spruce_log",
+    "id": "minecraft:stripped_spruce_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_birch_log",
+    "id": "minecraft:stripped_birch_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_jungle_log",
+    "id": "minecraft:stripped_jungle_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_acacia_log",
+    "id": "minecraft:stripped_acacia_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_cherry_log",
+    "id": "minecraft:stripped_cherry_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_dark_oak_log",
+    "id": "minecraft:stripped_dark_oak_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_pale_oak_log",
+    "id": "minecraft:stripped_pale_oak_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_mangrove_log",
+    "id": "minecraft:stripped_mangrove_log",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_crimson_stem",
+    "id": "minecraft:stripped_crimson_stem",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "stripped_warped_stem",
+    "id": "minecraft:stripped_warped_stem",
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "mushroom_stem",
+    "id": "minecraft:mushroom_stem",
     "category": "Blocks/Wood/Logs"
   },
   {
@@ -412,55 +412,55 @@
     "category": "Blocks/Wood/Logs"
   },
   {
-    "id": "oak_planks",
+    "id": "minecraft:oak_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "spruce_planks",
+    "id": "minecraft:spruce_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "birch_planks",
+    "id": "minecraft:birch_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "jungle_planks",
+    "id": "minecraft:jungle_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "acacia_planks",
+    "id": "minecraft:acacia_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "cherry_planks",
+    "id": "minecraft:cherry_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "dark_oak_planks",
+    "id": "minecraft:dark_oak_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "pale_oak_planks",
+    "id": "minecraft:pale_oak_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "mangrove_planks",
+    "id": "minecraft:mangrove_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "bamboo_planks",
+    "id": "minecraft:bamboo_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "crimson_planks",
+    "id": "minecraft:crimson_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "warped_planks",
+    "id": "minecraft:warped_planks",
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "bamboo_mosaic",
+    "id": "minecraft:bamboo_mosaic",
     "category": "Blocks/Wood/Planks"
   },
   {
@@ -716,67 +716,67 @@
     "category": "Blocks/Wood/Planks"
   },
   {
-    "id": "copper_bars",
+    "id": "minecraft:copper_bars",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "exposed_copper_bars",
+    "id": "minecraft:exposed_copper_bars",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "weathered_copper_bars",
+    "id": "minecraft:weathered_copper_bars",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "oxidized_copper_bars",
+    "id": "minecraft:oxidized_copper_bars",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "glass_pane",
+    "id": "minecraft:glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "exposed_copper",
+    "id": "minecraft:exposed_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "weathered_copper",
+    "id": "minecraft:weathered_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "oxidized_copper",
+    "id": "minecraft:oxidized_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "chiseled_copper",
+    "id": "minecraft:chiseled_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "exposed_chiseled_copper",
+    "id": "minecraft:exposed_chiseled_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "weathered_chiseled_copper",
+    "id": "minecraft:weathered_chiseled_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "oxidized_chiseled_copper",
+    "id": "minecraft:oxidized_chiseled_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cut_copper",
+    "id": "minecraft:cut_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "exposed_cut_copper",
+    "id": "minecraft:exposed_cut_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "weathered_cut_copper",
+    "id": "minecraft:weathered_cut_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "oxidized_cut_copper",
+    "id": "minecraft:oxidized_cut_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
@@ -960,7 +960,7 @@
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "obsidian",
+    "id": "minecraft:obsidian",
     "category": "Blocks/Building/FullBlocks"
   },
   {
@@ -1836,459 +1836,459 @@
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "white_banner",
+    "id": "minecraft:white_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "orange_banner",
+    "id": "minecraft:orange_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "magenta_banner",
+    "id": "minecraft:magenta_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_blue_banner",
+    "id": "minecraft:light_blue_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "yellow_banner",
+    "id": "minecraft:yellow_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "lime_banner",
+    "id": "minecraft:lime_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "pink_banner",
+    "id": "minecraft:pink_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "gray_banner",
+    "id": "minecraft:gray_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_gray_banner",
+    "id": "minecraft:light_gray_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cyan_banner",
+    "id": "minecraft:cyan_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "purple_banner",
+    "id": "minecraft:purple_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "blue_banner",
+    "id": "minecraft:blue_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "brown_banner",
+    "id": "minecraft:brown_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "green_banner",
+    "id": "minecraft:green_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "red_banner",
+    "id": "minecraft:red_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "black_banner",
+    "id": "minecraft:black_banner",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "terracotta",
+    "id": "minecraft:terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "white_glazed_terracotta",
+    "id": "minecraft:white_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "orange_glazed_terracotta",
+    "id": "minecraft:orange_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "magenta_glazed_terracotta",
+    "id": "minecraft:magenta_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_blue_glazed_terracotta",
+    "id": "minecraft:light_blue_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "yellow_glazed_terracotta",
+    "id": "minecraft:yellow_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "lime_glazed_terracotta",
+    "id": "minecraft:lime_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "pink_glazed_terracotta",
+    "id": "minecraft:pink_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "gray_glazed_terracotta",
+    "id": "minecraft:gray_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_gray_glazed_terracotta",
+    "id": "minecraft:light_gray_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cyan_glazed_terracotta",
+    "id": "minecraft:cyan_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "purple_glazed_terracotta",
+    "id": "minecraft:purple_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "blue_glazed_terracotta",
+    "id": "minecraft:blue_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "brown_glazed_terracotta",
+    "id": "minecraft:brown_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "green_glazed_terracotta",
+    "id": "minecraft:green_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "red_glazed_terracotta",
+    "id": "minecraft:red_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "black_glazed_terracotta",
+    "id": "minecraft:black_glazed_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "white_concrete",
+    "id": "minecraft:white_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "orange_concrete",
+    "id": "minecraft:orange_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "magenta_concrete",
+    "id": "minecraft:magenta_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_blue_concrete",
+    "id": "minecraft:light_blue_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "yellow_concrete",
+    "id": "minecraft:yellow_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "lime_concrete",
+    "id": "minecraft:lime_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "pink_concrete",
+    "id": "minecraft:pink_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "gray_concrete",
+    "id": "minecraft:gray_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_gray_concrete",
+    "id": "minecraft:light_gray_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cyan_concrete",
+    "id": "minecraft:cyan_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "purple_concrete",
+    "id": "minecraft:purple_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "blue_concrete",
+    "id": "minecraft:blue_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "brown_concrete",
+    "id": "minecraft:brown_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "green_concrete",
+    "id": "minecraft:green_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "red_concrete",
+    "id": "minecraft:red_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "black_concrete",
+    "id": "minecraft:black_concrete",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "white_concrete_powder",
+    "id": "minecraft:white_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "orange_concrete_powder",
+    "id": "minecraft:orange_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "magenta_concrete_powder",
+    "id": "minecraft:magenta_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_blue_concrete_powder",
+    "id": "minecraft:light_blue_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "yellow_concrete_powder",
+    "id": "minecraft:yellow_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "lime_concrete_powder",
+    "id": "minecraft:lime_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "pink_concrete_powder",
+    "id": "minecraft:pink_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "gray_concrete_powder",
+    "id": "minecraft:gray_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_gray_concrete_powder",
+    "id": "minecraft:light_gray_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cyan_concrete_powder",
+    "id": "minecraft:cyan_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "purple_concrete_powder",
+    "id": "minecraft:purple_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "blue_concrete_powder",
+    "id": "minecraft:blue_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "brown_concrete_powder",
+    "id": "minecraft:brown_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "green_concrete_powder",
+    "id": "minecraft:green_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "red_concrete_powder",
+    "id": "minecraft:red_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "black_concrete_powder",
+    "id": "minecraft:black_concrete_powder",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "white_stained_glass",
+    "id": "minecraft:white_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "orange_stained_glass",
+    "id": "minecraft:orange_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "magenta_stained_glass",
+    "id": "minecraft:magenta_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_blue_stained_glass",
+    "id": "minecraft:light_blue_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "yellow_stained_glass",
+    "id": "minecraft:yellow_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "lime_stained_glass",
+    "id": "minecraft:lime_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "pink_stained_glass",
+    "id": "minecraft:pink_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "gray_stained_glass",
+    "id": "minecraft:gray_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_gray_stained_glass",
+    "id": "minecraft:light_gray_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cyan_stained_glass",
+    "id": "minecraft:cyan_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "purple_stained_glass",
+    "id": "minecraft:purple_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "blue_stained_glass",
+    "id": "minecraft:blue_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "brown_stained_glass",
+    "id": "minecraft:brown_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "green_stained_glass",
+    "id": "minecraft:green_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "red_stained_glass",
+    "id": "minecraft:red_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "black_stained_glass",
+    "id": "minecraft:black_stained_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "white_stained_glass_pane",
+    "id": "minecraft:white_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "orange_stained_glass_pane",
+    "id": "minecraft:orange_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "magenta_stained_glass_pane",
+    "id": "minecraft:magenta_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_blue_stained_glass_pane",
+    "id": "minecraft:light_blue_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "yellow_stained_glass_pane",
+    "id": "minecraft:yellow_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "lime_stained_glass_pane",
+    "id": "minecraft:lime_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "pink_stained_glass_pane",
+    "id": "minecraft:pink_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "gray_stained_glass_pane",
+    "id": "minecraft:gray_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_gray_stained_glass_pane",
+    "id": "minecraft:light_gray_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cyan_stained_glass_pane",
+    "id": "minecraft:cyan_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "purple_stained_glass_pane",
+    "id": "minecraft:purple_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "blue_stained_glass_pane",
+    "id": "minecraft:blue_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "brown_stained_glass_pane",
+    "id": "minecraft:brown_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "green_stained_glass_pane",
+    "id": "minecraft:green_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "red_stained_glass_pane",
+    "id": "minecraft:red_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "black_stained_glass_pane",
+    "id": "minecraft:black_stained_glass_pane",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "prismarine",
+    "id": "minecraft:prismarine",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "white_terracotta",
+    "id": "minecraft:white_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "orange_terracotta",
+    "id": "minecraft:orange_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "magenta_terracotta",
+    "id": "minecraft:magenta_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_blue_terracotta",
+    "id": "minecraft:light_blue_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "yellow_terracotta",
+    "id": "minecraft:yellow_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "lime_terracotta",
+    "id": "minecraft:lime_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "pink_terracotta",
+    "id": "minecraft:pink_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "gray_terracotta",
+    "id": "minecraft:gray_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_gray_terracotta",
+    "id": "minecraft:light_gray_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cyan_terracotta",
+    "id": "minecraft:cyan_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "purple_terracotta",
+    "id": "minecraft:purple_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "blue_terracotta",
+    "id": "minecraft:blue_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "brown_terracotta",
+    "id": "minecraft:brown_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "green_terracotta",
+    "id": "minecraft:green_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "red_terracotta",
+    "id": "minecraft:red_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "black_terracotta",
+    "id": "minecraft:black_terracotta",
     "category": "Blocks/Building/FullBlocks"
   },
   {
@@ -2308,439 +2308,439 @@
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_exposed_copper",
+    "id": "minecraft:waxed_exposed_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_weathered_copper",
+    "id": "minecraft:waxed_weathered_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_oxidized_copper",
+    "id": "minecraft:waxed_oxidized_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_chiseled_copper",
+    "id": "minecraft:waxed_chiseled_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_exposed_chiseled_copper",
+    "id": "minecraft:waxed_exposed_chiseled_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_weathered_chiseled_copper",
+    "id": "minecraft:waxed_weathered_chiseled_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_oxidized_chiseled_copper",
+    "id": "minecraft:waxed_oxidized_chiseled_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_cut_copper",
+    "id": "minecraft:waxed_cut_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_exposed_cut_copper",
+    "id": "minecraft:waxed_exposed_cut_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_weathered_cut_copper",
+    "id": "minecraft:waxed_weathered_cut_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_oxidized_cut_copper",
+    "id": "minecraft:waxed_oxidized_cut_copper",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_copper_bars",
+    "id": "minecraft:waxed_copper_bars",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_exposed_copper_bars",
+    "id": "minecraft:waxed_exposed_copper_bars",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_weathered_copper_bars",
+    "id": "minecraft:waxed_weathered_copper_bars",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_oxidized_copper_bars",
+    "id": "minecraft:waxed_oxidized_copper_bars",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_copper_chain",
+    "id": "minecraft:waxed_copper_chain",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_exposed_copper_chain",
+    "id": "minecraft:waxed_exposed_copper_chain",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_weathered_copper_chain",
+    "id": "minecraft:waxed_weathered_copper_chain",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "waxed_oxidized_copper_chain",
+    "id": "minecraft:waxed_oxidized_copper_chain",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "white_wool",
+    "id": "minecraft:white_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "orange_wool",
+    "id": "minecraft:orange_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "magenta_wool",
+    "id": "minecraft:magenta_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_blue_wool",
+    "id": "minecraft:light_blue_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "yellow_wool",
+    "id": "minecraft:yellow_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "lime_wool",
+    "id": "minecraft:lime_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "pink_wool",
+    "id": "minecraft:pink_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "gray_wool",
+    "id": "minecraft:gray_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "light_gray_wool",
+    "id": "minecraft:light_gray_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cyan_wool",
+    "id": "minecraft:cyan_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "purple_wool",
+    "id": "minecraft:purple_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "blue_wool",
+    "id": "minecraft:blue_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "brown_wool",
+    "id": "minecraft:brown_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "green_wool",
+    "id": "minecraft:green_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "red_wool",
+    "id": "minecraft:red_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "black_wool",
+    "id": "minecraft:black_wool",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "glass",
+    "id": "minecraft:glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "tinted_glass",
+    "id": "minecraft:tinted_glass",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "polished_granite",
+    "id": "minecraft:polished_granite",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "polished_diorite",
+    "id": "minecraft:polished_diorite",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "polished_andesite",
+    "id": "minecraft:polished_andesite",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "chiseled_tuff",
+    "id": "minecraft:chiseled_tuff",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "polished_tuff",
+    "id": "minecraft:polished_tuff",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "polished_deepslate",
+    "id": "minecraft:polished_deepslate",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "tuff_bricks",
+    "id": "minecraft:tuff_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "chiseled_tuff_bricks",
+    "id": "minecraft:chiseled_tuff_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "dripstone_block",
+    "id": "minecraft:dripstone_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "grass_block",
+    "id": "minecraft:grass_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "amethyst_block",
+    "id": "minecraft:amethyst_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "bamboo_block",
+    "id": "minecraft:bamboo_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "stripped_bamboo_block",
+    "id": "minecraft:stripped_bamboo_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "lapis_block",
+    "id": "minecraft:lapis_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "moss_block",
+    "id": "minecraft:moss_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "pale_moss_block",
+    "id": "minecraft:pale_moss_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "bricks",
+    "id": "minecraft:bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "purpur_block",
+    "id": "minecraft:purpur_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "snow_block",
+    "id": "minecraft:snow_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "infested_stone_bricks",
+    "id": "minecraft:infested_stone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "infested_mossy_stone_bricks",
+    "id": "minecraft:infested_mossy_stone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "infested_cracked_stone_bricks",
+    "id": "minecraft:infested_cracked_stone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "infested_chiseled_stone_bricks",
+    "id": "minecraft:infested_chiseled_stone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "stone_bricks",
+    "id": "minecraft:stone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "mossy_stone_bricks",
+    "id": "minecraft:mossy_stone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cracked_stone_bricks",
+    "id": "minecraft:cracked_stone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "chiseled_stone_bricks",
+    "id": "minecraft:chiseled_stone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "mud_bricks",
+    "id": "minecraft:mud_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "deepslate_bricks",
+    "id": "minecraft:deepslate_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cracked_deepslate_bricks",
+    "id": "minecraft:cracked_deepslate_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "brown_mushroom_block",
+    "id": "minecraft:brown_mushroom_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "red_mushroom_block",
+    "id": "minecraft:red_mushroom_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "resin_block",
+    "id": "minecraft:resin_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "resin_bricks",
+    "id": "minecraft:resin_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "chiseled_resin_bricks",
+    "id": "minecraft:chiseled_resin_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "nether_bricks",
+    "id": "minecraft:nether_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cracked_nether_bricks",
+    "id": "minecraft:cracked_nether_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "chiseled_nether_bricks",
+    "id": "minecraft:chiseled_nether_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "end_stone_bricks",
+    "id": "minecraft:end_stone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "command_block",
+    "id": "minecraft:command_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "chiseled_quartz_block",
+    "id": "minecraft:chiseled_quartz_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "quartz_block",
+    "id": "minecraft:quartz_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "quartz_bricks",
+    "id": "minecraft:quartz_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "hay_block",
+    "id": "minecraft:hay_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "prismarine_bricks",
+    "id": "minecraft:prismarine_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "repeating_command_block",
+    "id": "minecraft:repeating_command_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "chain_command_block",
+    "id": "minecraft:chain_command_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "magma_block",
+    "id": "minecraft:magma_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "nether_wart_block",
+    "id": "minecraft:nether_wart_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "warped_wart_block",
+    "id": "minecraft:warped_wart_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "red_nether_bricks",
+    "id": "minecraft:red_nether_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "bone_block",
+    "id": "minecraft:bone_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "dead_tube_coral_block",
+    "id": "minecraft:dead_tube_coral_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "dead_brain_coral_block",
+    "id": "minecraft:dead_brain_coral_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "dead_bubble_coral_block",
+    "id": "minecraft:dead_bubble_coral_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "dead_fire_coral_block",
+    "id": "minecraft:dead_fire_coral_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "dead_horn_coral_block",
+    "id": "minecraft:dead_horn_coral_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "tube_coral_block",
+    "id": "minecraft:tube_coral_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "brain_coral_block",
+    "id": "minecraft:brain_coral_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "bubble_coral_block",
+    "id": "minecraft:bubble_coral_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "fire_coral_block",
+    "id": "minecraft:fire_coral_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "horn_coral_block",
+    "id": "minecraft:horn_coral_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "slime_block",
+    "id": "minecraft:slime_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "honey_block",
+    "id": "minecraft:honey_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "note_block",
+    "id": "minecraft:note_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "structure_block",
+    "id": "minecraft:structure_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "test_block",
+    "id": "minecraft:test_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "test_instance_block",
+    "id": "minecraft:test_instance_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "dried_kelp_block",
+    "id": "minecraft:dried_kelp_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "honeycomb_block",
+    "id": "minecraft:honeycomb_block",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "polished_blackstone_bricks",
+    "id": "minecraft:polished_blackstone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "cracked_polished_blackstone_bricks",
+    "id": "minecraft:cracked_polished_blackstone_bricks",
     "category": "Blocks/Building/FullBlocks"
   },
   {
@@ -3740,11 +3740,11 @@
     "category": "Blocks/Building/FullBlocks"
   },
   {
-    "id": "bamboo_mosaic_slab",
+    "id": "minecraft:bamboo_mosaic_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "bamboo_mosaic_stairs",
+    "id": "minecraft:bamboo_mosaic_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
@@ -3860,27 +3860,27 @@
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "iron_chain",
+    "id": "minecraft:iron_chain",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "iron_bars",
+    "id": "minecraft:iron_bars",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "copper_chain",
+    "id": "minecraft:copper_chain",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "exposed_copper_chain",
+    "id": "minecraft:exposed_copper_chain",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "weathered_copper_chain",
+    "id": "minecraft:weathered_copper_chain",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "oxidized_copper_chain",
+    "id": "minecraft:oxidized_copper_chain",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
@@ -4148,743 +4148,743 @@
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "white_carpet",
+    "id": "minecraft:white_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "orange_carpet",
+    "id": "minecraft:orange_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "magenta_carpet",
+    "id": "minecraft:magenta_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "light_blue_carpet",
+    "id": "minecraft:light_blue_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "yellow_carpet",
+    "id": "minecraft:yellow_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "lime_carpet",
+    "id": "minecraft:lime_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "pink_carpet",
+    "id": "minecraft:pink_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "gray_carpet",
+    "id": "minecraft:gray_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "light_gray_carpet",
+    "id": "minecraft:light_gray_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cyan_carpet",
+    "id": "minecraft:cyan_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "purple_carpet",
+    "id": "minecraft:purple_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "blue_carpet",
+    "id": "minecraft:blue_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "brown_carpet",
+    "id": "minecraft:brown_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "green_carpet",
+    "id": "minecraft:green_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "red_carpet",
+    "id": "minecraft:red_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "black_carpet",
+    "id": "minecraft:black_carpet",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "tuff_slab",
+    "id": "minecraft:tuff_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "tuff_stairs",
+    "id": "minecraft:tuff_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "tuff_wall",
+    "id": "minecraft:tuff_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_tuff_slab",
+    "id": "minecraft:polished_tuff_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_tuff_stairs",
+    "id": "minecraft:polished_tuff_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_tuff_wall",
+    "id": "minecraft:polished_tuff_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "tuff_brick_slab",
+    "id": "minecraft:tuff_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "tuff_brick_stairs",
+    "id": "minecraft:tuff_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "tuff_brick_wall",
+    "id": "minecraft:tuff_brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cut_copper_stairs",
+    "id": "minecraft:cut_copper_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "exposed_cut_copper_stairs",
+    "id": "minecraft:exposed_cut_copper_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "weathered_cut_copper_stairs",
+    "id": "minecraft:weathered_cut_copper_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "oxidized_cut_copper_stairs",
+    "id": "minecraft:oxidized_cut_copper_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cut_copper_slab",
+    "id": "minecraft:cut_copper_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "exposed_cut_copper_slab",
+    "id": "minecraft:exposed_cut_copper_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "weathered_cut_copper_slab",
+    "id": "minecraft:weathered_cut_copper_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "oxidized_cut_copper_slab",
+    "id": "minecraft:oxidized_cut_copper_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "waxed_cut_copper_stairs",
+    "id": "minecraft:waxed_cut_copper_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "waxed_exposed_cut_copper_stairs",
+    "id": "minecraft:waxed_exposed_cut_copper_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "waxed_weathered_cut_copper_stairs",
+    "id": "minecraft:waxed_weathered_cut_copper_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "waxed_oxidized_cut_copper_stairs",
+    "id": "minecraft:waxed_oxidized_cut_copper_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "waxed_cut_copper_slab",
+    "id": "minecraft:waxed_cut_copper_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "waxed_exposed_cut_copper_slab",
+    "id": "minecraft:waxed_exposed_cut_copper_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "waxed_weathered_cut_copper_slab",
+    "id": "minecraft:waxed_weathered_cut_copper_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "waxed_oxidized_cut_copper_slab",
+    "id": "minecraft:waxed_oxidized_cut_copper_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "oak_slab",
+    "id": "minecraft:oak_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "spruce_slab",
+    "id": "minecraft:spruce_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "birch_slab",
+    "id": "minecraft:birch_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "jungle_slab",
+    "id": "minecraft:jungle_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "acacia_slab",
+    "id": "minecraft:acacia_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cherry_slab",
+    "id": "minecraft:cherry_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "dark_oak_slab",
+    "id": "minecraft:dark_oak_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "pale_oak_slab",
+    "id": "minecraft:pale_oak_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mangrove_slab",
+    "id": "minecraft:mangrove_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "bamboo_slab",
+    "id": "minecraft:bamboo_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "crimson_slab",
+    "id": "minecraft:crimson_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "warped_slab",
+    "id": "minecraft:warped_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "stone_slab",
+    "id": "minecraft:stone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "smooth_stone_slab",
+    "id": "minecraft:smooth_stone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "sandstone_slab",
+    "id": "minecraft:sandstone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cut_sandstone_slab",
+    "id": "minecraft:cut_sandstone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "petrified_oak_slab",
+    "id": "minecraft:petrified_oak_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cobblestone_slab",
+    "id": "minecraft:cobblestone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "brick_slab",
+    "id": "minecraft:brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "stone_brick_slab",
+    "id": "minecraft:stone_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mud_brick_slab",
+    "id": "minecraft:mud_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "nether_brick_slab",
+    "id": "minecraft:nether_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "quartz_slab",
+    "id": "minecraft:quartz_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "red_sandstone_slab",
+    "id": "minecraft:red_sandstone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cut_red_sandstone_slab",
+    "id": "minecraft:cut_red_sandstone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "purpur_slab",
+    "id": "minecraft:purpur_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "prismarine_slab",
+    "id": "minecraft:prismarine_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "prismarine_brick_slab",
+    "id": "minecraft:prismarine_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "dark_prismarine_slab",
+    "id": "minecraft:dark_prismarine_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "purpur_stairs",
+    "id": "minecraft:purpur_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cobblestone_stairs",
+    "id": "minecraft:cobblestone_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "oak_fence",
+    "id": "minecraft:oak_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "spruce_fence",
+    "id": "minecraft:spruce_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "birch_fence",
+    "id": "minecraft:birch_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "jungle_fence",
+    "id": "minecraft:jungle_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "acacia_fence",
+    "id": "minecraft:acacia_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cherry_fence",
+    "id": "minecraft:cherry_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "dark_oak_fence",
+    "id": "minecraft:dark_oak_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "pale_oak_fence",
+    "id": "minecraft:pale_oak_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mangrove_fence",
+    "id": "minecraft:mangrove_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "bamboo_fence",
+    "id": "minecraft:bamboo_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "crimson_fence",
+    "id": "minecraft:crimson_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "warped_fence",
+    "id": "minecraft:warped_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "resin_brick_stairs",
+    "id": "minecraft:resin_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "resin_brick_slab",
+    "id": "minecraft:resin_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "resin_brick_wall",
+    "id": "minecraft:resin_brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "brick_stairs",
+    "id": "minecraft:brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "stone_brick_stairs",
+    "id": "minecraft:stone_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mud_brick_stairs",
+    "id": "minecraft:mud_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "nether_brick_fence",
+    "id": "minecraft:nether_brick_fence",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "nether_brick_stairs",
+    "id": "minecraft:nether_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "sandstone_stairs",
+    "id": "minecraft:sandstone_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "oak_stairs",
+    "id": "minecraft:oak_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "spruce_stairs",
+    "id": "minecraft:spruce_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "birch_stairs",
+    "id": "minecraft:birch_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "jungle_stairs",
+    "id": "minecraft:jungle_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "acacia_stairs",
+    "id": "minecraft:acacia_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cherry_stairs",
+    "id": "minecraft:cherry_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "dark_oak_stairs",
+    "id": "minecraft:dark_oak_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "pale_oak_stairs",
+    "id": "minecraft:pale_oak_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mangrove_stairs",
+    "id": "minecraft:mangrove_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "bamboo_stairs",
+    "id": "minecraft:bamboo_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "crimson_stairs",
+    "id": "minecraft:crimson_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "warped_stairs",
+    "id": "minecraft:warped_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cobblestone_wall",
+    "id": "minecraft:cobblestone_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mossy_cobblestone_wall",
+    "id": "minecraft:mossy_cobblestone_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "brick_wall",
+    "id": "minecraft:brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "prismarine_wall",
+    "id": "minecraft:prismarine_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "red_sandstone_wall",
+    "id": "minecraft:red_sandstone_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mossy_stone_brick_wall",
+    "id": "minecraft:mossy_stone_brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "granite_wall",
+    "id": "minecraft:granite_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "stone_brick_wall",
+    "id": "minecraft:stone_brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mud_brick_wall",
+    "id": "minecraft:mud_brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "nether_brick_wall",
+    "id": "minecraft:nether_brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "andesite_wall",
+    "id": "minecraft:andesite_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "red_nether_brick_wall",
+    "id": "minecraft:red_nether_brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "sandstone_wall",
+    "id": "minecraft:sandstone_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "end_stone_brick_wall",
+    "id": "minecraft:end_stone_brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "diorite_wall",
+    "id": "minecraft:diorite_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "blackstone_wall",
+    "id": "minecraft:blackstone_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_blackstone_wall",
+    "id": "minecraft:polished_blackstone_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_blackstone_brick_wall",
+    "id": "minecraft:polished_blackstone_brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cobbled_deepslate_wall",
+    "id": "minecraft:cobbled_deepslate_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_deepslate_wall",
+    "id": "minecraft:polished_deepslate_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "deepslate_brick_wall",
+    "id": "minecraft:deepslate_brick_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "deepslate_tile_wall",
+    "id": "minecraft:deepslate_tile_wall",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "quartz_stairs",
+    "id": "minecraft:quartz_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "prismarine_stairs",
+    "id": "minecraft:prismarine_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "prismarine_brick_stairs",
+    "id": "minecraft:prismarine_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "dark_prismarine_stairs",
+    "id": "minecraft:dark_prismarine_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "red_sandstone_stairs",
+    "id": "minecraft:red_sandstone_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_granite_stairs",
+    "id": "minecraft:polished_granite_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "smooth_red_sandstone_stairs",
+    "id": "minecraft:smooth_red_sandstone_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mossy_stone_brick_stairs",
+    "id": "minecraft:mossy_stone_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_diorite_stairs",
+    "id": "minecraft:polished_diorite_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mossy_cobblestone_stairs",
+    "id": "minecraft:mossy_cobblestone_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "end_stone_brick_stairs",
+    "id": "minecraft:end_stone_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "stone_stairs",
+    "id": "minecraft:stone_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "smooth_sandstone_stairs",
+    "id": "minecraft:smooth_sandstone_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "smooth_quartz_stairs",
+    "id": "minecraft:smooth_quartz_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "granite_stairs",
+    "id": "minecraft:granite_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "andesite_stairs",
+    "id": "minecraft:andesite_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "red_nether_brick_stairs",
+    "id": "minecraft:red_nether_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_andesite_stairs",
+    "id": "minecraft:polished_andesite_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "diorite_stairs",
+    "id": "minecraft:diorite_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cobbled_deepslate_stairs",
+    "id": "minecraft:cobbled_deepslate_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_deepslate_stairs",
+    "id": "minecraft:polished_deepslate_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "deepslate_brick_stairs",
+    "id": "minecraft:deepslate_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "deepslate_tile_stairs",
+    "id": "minecraft:deepslate_tile_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_granite_slab",
+    "id": "minecraft:polished_granite_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "smooth_red_sandstone_slab",
+    "id": "minecraft:smooth_red_sandstone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mossy_stone_brick_slab",
+    "id": "minecraft:mossy_stone_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_diorite_slab",
+    "id": "minecraft:polished_diorite_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mossy_cobblestone_slab",
+    "id": "minecraft:mossy_cobblestone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "end_stone_brick_slab",
+    "id": "minecraft:end_stone_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "smooth_sandstone_slab",
+    "id": "minecraft:smooth_sandstone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "smooth_quartz_slab",
+    "id": "minecraft:smooth_quartz_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "granite_slab",
+    "id": "minecraft:granite_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "andesite_slab",
+    "id": "minecraft:andesite_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "red_nether_brick_slab",
+    "id": "minecraft:red_nether_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_andesite_slab",
+    "id": "minecraft:polished_andesite_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "diorite_slab",
+    "id": "minecraft:diorite_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cobbled_deepslate_slab",
+    "id": "minecraft:cobbled_deepslate_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_deepslate_slab",
+    "id": "minecraft:polished_deepslate_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "deepslate_brick_slab",
+    "id": "minecraft:deepslate_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "deepslate_tile_slab",
+    "id": "minecraft:deepslate_tile_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "oak_fence_gate",
+    "id": "minecraft:oak_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "spruce_fence_gate",
+    "id": "minecraft:spruce_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "birch_fence_gate",
+    "id": "minecraft:birch_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "jungle_fence_gate",
+    "id": "minecraft:jungle_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "acacia_fence_gate",
+    "id": "minecraft:acacia_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "cherry_fence_gate",
+    "id": "minecraft:cherry_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "dark_oak_fence_gate",
+    "id": "minecraft:dark_oak_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "pale_oak_fence_gate",
+    "id": "minecraft:pale_oak_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "mangrove_fence_gate",
+    "id": "minecraft:mangrove_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "bamboo_fence_gate",
+    "id": "minecraft:bamboo_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "crimson_fence_gate",
+    "id": "minecraft:crimson_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "warped_fence_gate",
+    "id": "minecraft:warped_fence_gate",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "blackstone_slab",
+    "id": "minecraft:blackstone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "blackstone_stairs",
+    "id": "minecraft:blackstone_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_blackstone_slab",
+    "id": "minecraft:polished_blackstone_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_blackstone_stairs",
+    "id": "minecraft:polished_blackstone_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_blackstone_brick_slab",
+    "id": "minecraft:polished_blackstone_brick_slab",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
-    "id": "polished_blackstone_brick_stairs",
+    "id": "minecraft:polished_blackstone_brick_stairs",
     "category": "Blocks/Building/PartialBlocks"
   },
   {
@@ -7960,23 +7960,23 @@
     "category": "Blocks/Functional"
   },
   {
-    "id": "jack_o_lantern",
+    "id": "minecraft:jack_o_lantern",
     "category": "Blocks/Functional"
   },
   {
-    "id": "soul_torch",
+    "id": "minecraft:soul_torch",
     "category": "Blocks/Functional"
   },
   {
-    "id": "copper_torch",
+    "id": "minecraft:copper_torch",
     "category": "Blocks/Functional"
   },
   {
-    "id": "sponge",
+    "id": "minecraft:sponge",
     "category": "Blocks/Functional"
   },
   {
-    "id": "wet_sponge",
+    "id": "minecraft:wet_sponge",
     "category": "Blocks/Functional"
   },
   {
@@ -8268,31 +8268,31 @@
     "category": "Blocks/Functional"
   },
   {
-    "id": "enchanting_table",
+    "id": "minecraft:enchanting_table",
     "category": "Blocks/Functional"
   },
   {
-    "id": "anvil",
+    "id": "minecraft:anvil",
     "category": "Blocks/Functional"
   },
   {
-    "id": "chipped_anvil",
+    "id": "minecraft:chipped_anvil",
     "category": "Blocks/Functional"
   },
   {
-    "id": "damaged_anvil",
+    "id": "minecraft:damaged_anvil",
     "category": "Blocks/Functional"
   },
   {
-    "id": "torch",
+    "id": "minecraft:torch",
     "category": "Blocks/Functional"
   },
   {
-    "id": "crafting_table",
+    "id": "minecraft:crafting_table",
     "category": "Blocks/Functional"
   },
   {
-    "id": "farmland",
+    "id": "minecraft:farmland",
     "category": "Blocks/Functional"
   },
   {
@@ -8304,283 +8304,283 @@
     "category": "Blocks/Functional"
   },
   {
-    "id": "furnace",
+    "id": "minecraft:furnace",
     "category": "Blocks/Functional"
   },
   {
-    "id": "ladder",
+    "id": "minecraft:ladder",
     "category": "Blocks/Functional"
   },
   {
-    "id": "candle",
+    "id": "minecraft:candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "white_candle",
+    "id": "minecraft:white_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "orange_candle",
+    "id": "minecraft:orange_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "magenta_candle",
+    "id": "minecraft:magenta_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "light_blue_candle",
+    "id": "minecraft:light_blue_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "yellow_candle",
+    "id": "minecraft:yellow_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "lime_candle",
+    "id": "minecraft:lime_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "pink_candle",
+    "id": "minecraft:pink_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "gray_candle",
+    "id": "minecraft:gray_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "light_gray_candle",
+    "id": "minecraft:light_gray_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "cyan_candle",
+    "id": "minecraft:cyan_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "purple_candle",
+    "id": "minecraft:purple_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "blue_candle",
+    "id": "minecraft:blue_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "brown_candle",
+    "id": "minecraft:brown_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "green_candle",
+    "id": "minecraft:green_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "red_candle",
+    "id": "minecraft:red_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "black_candle",
+    "id": "minecraft:black_candle",
     "category": "Blocks/Functional"
   },
   {
-    "id": "skeleton_skull",
+    "id": "minecraft:skeleton_skull",
     "category": "Blocks/Functional"
   },
   {
-    "id": "wither_skeleton_skull",
+    "id": "minecraft:wither_skeleton_skull",
     "category": "Blocks/Functional"
   },
   {
-    "id": "player_head",
+    "id": "minecraft:player_head",
     "category": "Blocks/Functional"
   },
   {
-    "id": "zombie_head",
+    "id": "minecraft:zombie_head",
     "category": "Blocks/Functional"
   },
   {
-    "id": "creeper_head",
+    "id": "minecraft:creeper_head",
     "category": "Blocks/Functional"
   },
   {
-    "id": "dragon_head",
+    "id": "minecraft:dragon_head",
     "category": "Blocks/Functional"
   },
   {
-    "id": "piglin_head",
+    "id": "minecraft:piglin_head",
     "category": "Blocks/Functional"
   },
   {
-    "id": "composter",
+    "id": "minecraft:composter",
     "category": "Blocks/Functional"
   },
   {
-    "id": "barrel",
+    "id": "minecraft:barrel",
     "category": "Blocks/Functional"
   },
   {
-    "id": "smoker",
+    "id": "minecraft:smoker",
     "category": "Blocks/Functional"
   },
   {
-    "id": "blast_furnace",
+    "id": "minecraft:blast_furnace",
     "category": "Blocks/Functional"
   },
   {
-    "id": "cartography_table",
+    "id": "minecraft:cartography_table",
     "category": "Blocks/Functional"
   },
   {
-    "id": "fletching_table",
+    "id": "minecraft:fletching_table",
     "category": "Blocks/Functional"
   },
   {
-    "id": "smithing_table",
+    "id": "minecraft:smithing_table",
     "category": "Blocks/Functional"
   },
   {
-    "id": "bell",
+    "id": "minecraft:bell",
     "category": "Blocks/Functional"
   },
   {
-    "id": "white_bed",
+    "id": "minecraft:white_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "orange_bed",
+    "id": "minecraft:orange_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "magenta_bed",
+    "id": "minecraft:magenta_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "light_blue_bed",
+    "id": "minecraft:light_blue_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "yellow_bed",
+    "id": "minecraft:yellow_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "lime_bed",
+    "id": "minecraft:lime_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "pink_bed",
+    "id": "minecraft:pink_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "gray_bed",
+    "id": "minecraft:gray_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "light_gray_bed",
+    "id": "minecraft:light_gray_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "cyan_bed",
+    "id": "minecraft:cyan_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "purple_bed",
+    "id": "minecraft:purple_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "blue_bed",
+    "id": "minecraft:blue_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "brown_bed",
+    "id": "minecraft:brown_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "green_bed",
+    "id": "minecraft:green_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "red_bed",
+    "id": "minecraft:red_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "black_bed",
+    "id": "minecraft:black_bed",
     "category": "Blocks/Functional"
   },
   {
-    "id": "chest",
+    "id": "minecraft:chest",
     "category": "Blocks/Functional"
   },
   {
-    "id": "waxed_copper_chest",
+    "id": "minecraft:waxed_copper_chest",
     "category": "Blocks/Functional"
   },
   {
-    "id": "copper_chest",
+    "id": "minecraft:copper_chest",
     "category": "Blocks/Functional"
   },
   {
-    "id": "exposed_copper_chest",
+    "id": "minecraft:exposed_copper_chest",
     "category": "Blocks/Functional"
   },
   {
-    "id": "weathered_copper_chest",
+    "id": "minecraft:weathered_copper_chest",
     "category": "Blocks/Functional"
   },
   {
-    "id": "oxidized_copper_chest",
+    "id": "minecraft:oxidized_copper_chest",
     "category": "Blocks/Functional"
   },
   {
-    "id": "waxed_exposed_copper_chest",
+    "id": "minecraft:waxed_exposed_copper_chest",
     "category": "Blocks/Functional"
   },
   {
-    "id": "waxed_weathered_copper_chest",
+    "id": "minecraft:waxed_weathered_copper_chest",
     "category": "Blocks/Functional"
   },
   {
-    "id": "waxed_oxidized_copper_chest",
+    "id": "minecraft:waxed_oxidized_copper_chest",
     "category": "Blocks/Functional"
   },
   {
-    "id": "ender_chest",
+    "id": "minecraft:ender_chest",
     "category": "Blocks/Functional"
   },
   {
-    "id": "acacia_shelf",
+    "id": "minecraft:acacia_shelf",
     "category": "Blocks/Functional"
   },
   {
-    "id": "bamboo_shelf",
+    "id": "minecraft:bamboo_shelf",
     "category": "Blocks/Functional"
   },
   {
-    "id": "birch_shelf",
+    "id": "minecraft:birch_shelf",
     "category": "Blocks/Functional"
   },
   {
-    "id": "cherry_shelf",
+    "id": "minecraft:cherry_shelf",
     "category": "Blocks/Functional"
   },
   {
-    "id": "dark_oak_shelf",
+    "id": "minecraft:dark_oak_shelf",
     "category": "Blocks/Functional"
   },
   {
-    "id": "jungle_shelf",
+    "id": "minecraft:jungle_shelf",
     "category": "Blocks/Functional"
   },
   {
-    "id": "mangrove_shelf",
+    "id": "minecraft:mangrove_shelf",
     "category": "Blocks/Functional"
   },
   {
-    "id": "oak_shelf",
+    "id": "minecraft:oak_shelf",
     "category": "Blocks/Functional"
   },
   {
-    "id": "pale_oak_shelf",
+    "id": "minecraft:pale_oak_shelf",
     "category": "Blocks/Functional"
   },
   {
-    "id": "spruce_shelf",
+    "id": "minecraft:spruce_shelf",
     "category": "Blocks/Functional"
   },
   {
@@ -8588,47 +8588,47 @@
     "category": "Blocks/Functional"
   },
   {
-    "id": "ice",
+    "id": "minecraft:ice",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "mycelium",
+    "id": "minecraft:mycelium",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "sculk",
+    "id": "minecraft:sculk",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "sculk_vein",
+    "id": "minecraft:sculk_vein",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "sculk_catalyst",
+    "id": "minecraft:sculk_catalyst",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "sculk_shrieker",
+    "id": "minecraft:sculk_shrieker",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "tube_coral",
+    "id": "minecraft:tube_coral",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "brain_coral",
+    "id": "minecraft:brain_coral",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "bubble_coral",
+    "id": "minecraft:bubble_coral",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "fire_coral",
+    "id": "minecraft:fire_coral",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "horn_coral",
+    "id": "minecraft:horn_coral",
     "category": "Blocks/Overworld/Natural"
   },
   {
@@ -8688,47 +8688,47 @@
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "oak_leaves",
+    "id": "minecraft:oak_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "spruce_leaves",
+    "id": "minecraft:spruce_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "birch_leaves",
+    "id": "minecraft:birch_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "jungle_leaves",
+    "id": "minecraft:jungle_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "acacia_leaves",
+    "id": "minecraft:acacia_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "cherry_leaves",
+    "id": "minecraft:cherry_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "dark_oak_leaves",
+    "id": "minecraft:dark_oak_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "pale_oak_leaves",
+    "id": "minecraft:pale_oak_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "mangrove_leaves",
+    "id": "minecraft:mangrove_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "azalea_leaves",
+    "id": "minecraft:azalea_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "flowering_azalea_leaves",
+    "id": "minecraft:flowering_azalea_leaves",
     "category": "Blocks/Overworld/Natural"
   },
   {
@@ -8736,207 +8736,207 @@
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "stone",
+    "id": "minecraft:stone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "granite",
+    "id": "minecraft:granite",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "diorite",
+    "id": "minecraft:diorite",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "andesite",
+    "id": "minecraft:andesite",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "calcite",
+    "id": "minecraft:calcite",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "tuff",
+    "id": "minecraft:tuff",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "podzol",
+    "id": "minecraft:podzol",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "mud",
+    "id": "minecraft:mud",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "deepslate",
+    "id": "minecraft:deepslate",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "cobbled_deepslate",
+    "id": "minecraft:cobbled_deepslate",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "dirt",
+    "id": "minecraft:dirt",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "coarse_dirt",
+    "id": "minecraft:coarse_dirt",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "rooted_dirt",
+    "id": "minecraft:rooted_dirt",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "cobblestone",
+    "id": "minecraft:cobblestone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "sand",
+    "id": "minecraft:sand",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "suspicious_sand",
+    "id": "minecraft:suspicious_sand",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "suspicious_gravel",
+    "id": "minecraft:suspicious_gravel",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "red_sand",
+    "id": "minecraft:red_sand",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "gravel",
+    "id": "minecraft:gravel",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "lapis_ore",
+    "id": "minecraft:lapis_ore",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "deepslate_lapis_ore",
+    "id": "minecraft:deepslate_lapis_ore",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "heavy_core",
+    "id": "minecraft:heavy_core",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "sandstone",
+    "id": "minecraft:sandstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "chiseled_sandstone",
+    "id": "minecraft:chiseled_sandstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "cut_sandstone",
+    "id": "minecraft:cut_sandstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "spore_blossom",
+    "id": "minecraft:spore_blossom",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "smooth_red_sandstone",
+    "id": "minecraft:smooth_red_sandstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "smooth_sandstone",
+    "id": "minecraft:smooth_sandstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "smooth_stone",
+    "id": "minecraft:smooth_stone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "mossy_cobblestone",
+    "id": "minecraft:mossy_cobblestone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "soul_sand",
+    "id": "minecraft:soul_sand",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "glowstone",
+    "id": "minecraft:glowstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "infested_stone",
+    "id": "minecraft:infested_stone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "infested_cobblestone",
+    "id": "minecraft:infested_cobblestone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "infested_deepslate",
+    "id": "minecraft:infested_deepslate",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "deepslate_tiles",
+    "id": "minecraft:deepslate_tiles",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "cracked_deepslate_tiles",
+    "id": "minecraft:cracked_deepslate_tiles",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "chiseled_deepslate",
+    "id": "minecraft:chiseled_deepslate",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "reinforced_deepslate",
+    "id": "minecraft:reinforced_deepslate",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "dirt_path",
+    "id": "minecraft:dirt_path",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "red_sandstone",
+    "id": "minecraft:red_sandstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "chiseled_red_sandstone",
+    "id": "minecraft:chiseled_red_sandstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "cut_red_sandstone",
+    "id": "minecraft:cut_red_sandstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "redstone_torch",
+    "id": "minecraft:redstone_torch",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "redstone_lamp",
+    "id": "minecraft:redstone_lamp",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "stone_pressure_plate",
+    "id": "minecraft:stone_pressure_plate",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "grindstone",
+    "id": "minecraft:grindstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "stonecutter",
+    "id": "minecraft:stonecutter",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "lodestone",
+    "id": "minecraft:lodestone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "pointed_dripstone",
+    "id": "minecraft:pointed_dripstone",
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "explorer_pottery_sherd",
+    "id": "minecraft:explorer_pottery_sherd",
     "category": "Blocks/Overworld/Natural"
   },
   {
@@ -9984,123 +9984,123 @@
     "category": "Blocks/Overworld/Natural"
   },
   {
-    "id": "crimson_nylium",
+    "id": "minecraft:crimson_nylium",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "warped_nylium",
+    "id": "minecraft:warped_nylium",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "nether_gold_ore",
+    "id": "minecraft:nether_gold_ore",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "nether_quartz_ore",
+    "id": "minecraft:nether_quartz_ore",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "stripped_crimson_hyphae",
+    "id": "minecraft:stripped_crimson_hyphae",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "stripped_warped_hyphae",
+    "id": "minecraft:stripped_warped_hyphae",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "crimson_hyphae",
+    "id": "minecraft:crimson_hyphae",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "warped_hyphae",
+    "id": "minecraft:warped_hyphae",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "crimson_fungus",
+    "id": "minecraft:crimson_fungus",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "warped_fungus",
+    "id": "minecraft:warped_fungus",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "crimson_roots",
+    "id": "minecraft:crimson_roots",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "warped_roots",
+    "id": "minecraft:warped_roots",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "nether_sprouts",
+    "id": "minecraft:nether_sprouts",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "crimson_shelf",
+    "id": "minecraft:crimson_shelf",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "warped_shelf",
+    "id": "minecraft:warped_shelf",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "netherrack",
+    "id": "minecraft:netherrack",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "basalt",
+    "id": "minecraft:basalt",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "polished_basalt",
+    "id": "minecraft:polished_basalt",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "smooth_basalt",
+    "id": "minecraft:smooth_basalt",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "polished_blackstone_pressure_plate",
+    "id": "minecraft:polished_blackstone_pressure_plate",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "crimson_pressure_plate",
+    "id": "minecraft:crimson_pressure_plate",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "warped_pressure_plate",
+    "id": "minecraft:warped_pressure_plate",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "warped_fungus_on_a_stick",
+    "id": "minecraft:warped_fungus_on_a_stick",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "nether_wart",
+    "id": "minecraft:nether_wart",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "nether_star",
+    "id": "minecraft:nether_star",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "nether_brick",
+    "id": "minecraft:nether_brick",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "blackstone",
+    "id": "minecraft:blackstone",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "gilded_blackstone",
+    "id": "minecraft:gilded_blackstone",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "polished_blackstone",
+    "id": "minecraft:polished_blackstone",
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "chiseled_polished_blackstone",
+    "id": "minecraft:chiseled_polished_blackstone",
     "category": "Blocks/Nether/OtherNez"
   },
   {
@@ -10432,47 +10432,47 @@
     "category": "Blocks/Nether/OtherNez"
   },
   {
-    "id": "end_rod",
+    "id": "minecraft:end_rod",
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "chorus_plant",
+    "id": "minecraft:chorus_plant",
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "purpur_pillar",
+    "id": "minecraft:purpur_pillar",
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "end_portal_frame",
+    "id": "minecraft:end_portal_frame",
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "end_stone",
+    "id": "minecraft:end_stone",
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "ender_pearl",
+    "id": "minecraft:ender_pearl",
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "ender_eye",
+    "id": "minecraft:ender_eye",
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "end_crystal",
+    "id": "minecraft:end_crystal",
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "chorus_fruit",
+    "id": "minecraft:chorus_fruit",
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "popped_chorus_fruit",
+    "id": "minecraft:popped_chorus_fruit",
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "friend_pottery_sherd",
+    "id": "minecraft:friend_pottery_sherd",
     "category": "Blocks/End/OtherEnd"
   },
   {
@@ -11108,23 +11108,23 @@
     "category": "Blocks/End/OtherEnd"
   },
   {
-    "id": "stone_shovel",
+    "id": "minecraft:stone_shovel",
     "category": "Equipment/Tools"
   },
   {
-    "id": "stone_pickaxe",
+    "id": "minecraft:stone_pickaxe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "stone_axe",
+    "id": "minecraft:stone_axe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "stone_hoe",
+    "id": "minecraft:stone_hoe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "flint_and_steel",
+    "id": "minecraft:flint_and_steel",
     "category": "Equipment/Tools"
   },
   {
@@ -11172,215 +11172,215 @@
     "category": "Equipment/Tools"
   },
   {
-    "id": "netherite_shovel",
+    "id": "minecraft:netherite_shovel",
     "category": "Equipment/Tools"
   },
   {
-    "id": "netherite_pickaxe",
+    "id": "minecraft:netherite_pickaxe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "netherite_axe",
+    "id": "minecraft:netherite_axe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "netherite_hoe",
+    "id": "minecraft:netherite_hoe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_lightning_rod",
+    "id": "minecraft:waxed_lightning_rod",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_exposed_lightning_rod",
+    "id": "minecraft:waxed_exposed_lightning_rod",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_weathered_lightning_rod",
+    "id": "minecraft:waxed_weathered_lightning_rod",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_oxidized_lightning_rod",
+    "id": "minecraft:waxed_oxidized_lightning_rod",
     "category": "Equipment/Tools"
   },
   {
-    "id": "wooden_shovel",
+    "id": "minecraft:wooden_shovel",
     "category": "Equipment/Tools"
   },
   {
-    "id": "wooden_pickaxe",
+    "id": "minecraft:wooden_pickaxe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "wooden_axe",
+    "id": "minecraft:wooden_axe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "wooden_hoe",
+    "id": "minecraft:wooden_hoe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "copper_shovel",
+    "id": "minecraft:copper_shovel",
     "category": "Equipment/Tools"
   },
   {
-    "id": "copper_pickaxe",
+    "id": "minecraft:copper_pickaxe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "copper_axe",
+    "id": "minecraft:copper_axe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "copper_hoe",
+    "id": "minecraft:copper_hoe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "golden_shovel",
+    "id": "minecraft:golden_shovel",
     "category": "Equipment/Tools"
   },
   {
-    "id": "golden_pickaxe",
+    "id": "minecraft:golden_pickaxe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "golden_axe",
+    "id": "minecraft:golden_axe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "golden_hoe",
+    "id": "minecraft:golden_hoe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "iron_shovel",
+    "id": "minecraft:iron_shovel",
     "category": "Equipment/Tools"
   },
   {
-    "id": "iron_pickaxe",
+    "id": "minecraft:iron_pickaxe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "iron_axe",
+    "id": "minecraft:iron_axe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "iron_hoe",
+    "id": "minecraft:iron_hoe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "diamond_shovel",
+    "id": "minecraft:diamond_shovel",
     "category": "Equipment/Tools"
   },
   {
-    "id": "diamond_pickaxe",
+    "id": "minecraft:diamond_pickaxe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "diamond_axe",
+    "id": "minecraft:diamond_axe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "diamond_hoe",
+    "id": "minecraft:diamond_hoe",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_copper_lantern",
+    "id": "minecraft:waxed_copper_lantern",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_exposed_copper_lantern",
+    "id": "minecraft:waxed_exposed_copper_lantern",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_weathered_copper_lantern",
+    "id": "minecraft:waxed_weathered_copper_lantern",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_oxidized_copper_lantern",
+    "id": "minecraft:waxed_oxidized_copper_lantern",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_copper_grate",
+    "id": "minecraft:waxed_copper_grate",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_exposed_copper_grate",
+    "id": "minecraft:waxed_exposed_copper_grate",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_weathered_copper_grate",
+    "id": "minecraft:waxed_weathered_copper_grate",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_oxidized_copper_grate",
+    "id": "minecraft:waxed_oxidized_copper_grate",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_copper_bulb",
+    "id": "minecraft:waxed_copper_bulb",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_exposed_copper_bulb",
+    "id": "minecraft:waxed_exposed_copper_bulb",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_weathered_copper_bulb",
+    "id": "minecraft:waxed_weathered_copper_bulb",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_oxidized_copper_bulb",
+    "id": "minecraft:waxed_oxidized_copper_bulb",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_copper_golem_statue",
+    "id": "minecraft:waxed_copper_golem_statue",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_exposed_copper_golem_statue",
+    "id": "minecraft:waxed_exposed_copper_golem_statue",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_weathered_copper_golem_statue",
+    "id": "minecraft:waxed_weathered_copper_golem_statue",
     "category": "Equipment/Tools"
   },
   {
-    "id": "waxed_oxidized_copper_golem_statue",
+    "id": "minecraft:waxed_oxidized_copper_golem_statue",
     "category": "Equipment/Tools"
   },
   {
-    "id": "netherite_sword",
+    "id": "minecraft:netherite_sword",
     "category": "Equipment/Weapons/Melee"
   },
   {
-    "id": "wooden_sword",
+    "id": "minecraft:wooden_sword",
     "category": "Equipment/Weapons/Melee"
   },
   {
-    "id": "stone_sword",
+    "id": "minecraft:stone_sword",
     "category": "Equipment/Weapons/Melee"
   },
   {
-    "id": "copper_sword",
+    "id": "minecraft:copper_sword",
     "category": "Equipment/Weapons/Melee"
   },
   {
-    "id": "golden_sword",
+    "id": "minecraft:golden_sword",
     "category": "Equipment/Weapons/Melee"
   },
   {
-    "id": "iron_sword",
+    "id": "minecraft:iron_sword",
     "category": "Equipment/Weapons/Melee"
   },
   {
-    "id": "diamond_sword",
+    "id": "minecraft:diamond_sword",
     "category": "Equipment/Weapons/Melee"
   },
   {
-    "id": "mace",
+    "id": "minecraft:mace",
     "category": "Equipment/Weapons/Melee"
   },
   {
-    "id": "trident",
+    "id": "minecraft:trident",
     "category": "Equipment/Weapons/Melee"
   },
   {
@@ -11388,219 +11388,219 @@
     "category": "Equipment/Weapons/Melee"
   },
   {
-    "id": "bowl",
+    "id": "minecraft:bowl",
     "category": "Equipment/Weapons/Ranged"
   },
   {
-    "id": "bow",
+    "id": "minecraft:bow",
     "category": "Equipment/Weapons/Ranged"
   },
   {
-    "id": "crossbow",
+    "id": "minecraft:crossbow",
     "category": "Equipment/Weapons/Ranged"
   },
   {
-    "id": "elytra",
+    "id": "minecraft:elytra",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "arrow",
+    "id": "minecraft:arrow",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "spectral_arrow",
+    "id": "minecraft:spectral_arrow",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "tipped_arrow",
+    "id": "minecraft:tipped_arrow",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "shield",
+    "id": "minecraft:shield",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "totem_of_undying",
+    "id": "minecraft:totem_of_undying",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "white_bundle",
+    "id": "minecraft:white_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "orange_bundle",
+    "id": "minecraft:orange_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "magenta_bundle",
+    "id": "minecraft:magenta_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "light_blue_bundle",
+    "id": "minecraft:light_blue_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "yellow_bundle",
+    "id": "minecraft:yellow_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "lime_bundle",
+    "id": "minecraft:lime_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "pink_bundle",
+    "id": "minecraft:pink_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "gray_bundle",
+    "id": "minecraft:gray_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "light_gray_bundle",
+    "id": "minecraft:light_gray_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "cyan_bundle",
+    "id": "minecraft:cyan_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "purple_bundle",
+    "id": "minecraft:purple_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "blue_bundle",
+    "id": "minecraft:blue_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "brown_bundle",
+    "id": "minecraft:brown_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "green_bundle",
+    "id": "minecraft:green_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "red_bundle",
+    "id": "minecraft:red_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "black_bundle",
+    "id": "minecraft:black_bundle",
     "category": "Equipment/Ammunition"
   },
   {
-    "id": "netherite_helmet",
+    "id": "minecraft:netherite_helmet",
     "category": "Equipment/Armor"
   },
   {
-    "id": "netherite_chestplate",
+    "id": "minecraft:netherite_chestplate",
     "category": "Equipment/Armor"
   },
   {
-    "id": "netherite_leggings",
+    "id": "minecraft:netherite_leggings",
     "category": "Equipment/Armor"
   },
   {
-    "id": "netherite_boots",
+    "id": "minecraft:netherite_boots",
     "category": "Equipment/Armor"
   },
   {
-    "id": "turtle_helmet",
+    "id": "minecraft:turtle_helmet",
     "category": "Equipment/Armor"
   },
   {
-    "id": "leather_helmet",
+    "id": "minecraft:leather_helmet",
     "category": "Equipment/Armor"
   },
   {
-    "id": "leather_chestplate",
+    "id": "minecraft:leather_chestplate",
     "category": "Equipment/Armor"
   },
   {
-    "id": "leather_leggings",
+    "id": "minecraft:leather_leggings",
     "category": "Equipment/Armor"
   },
   {
-    "id": "leather_boots",
+    "id": "minecraft:leather_boots",
     "category": "Equipment/Armor"
   },
   {
-    "id": "copper_helmet",
+    "id": "minecraft:copper_helmet",
     "category": "Equipment/Armor"
   },
   {
-    "id": "copper_chestplate",
+    "id": "minecraft:copper_chestplate",
     "category": "Equipment/Armor"
   },
   {
-    "id": "copper_leggings",
+    "id": "minecraft:copper_leggings",
     "category": "Equipment/Armor"
   },
   {
-    "id": "copper_boots",
+    "id": "minecraft:copper_boots",
     "category": "Equipment/Armor"
   },
   {
-    "id": "chainmail_helmet",
+    "id": "minecraft:chainmail_helmet",
     "category": "Equipment/Armor"
   },
   {
-    "id": "chainmail_chestplate",
+    "id": "minecraft:chainmail_chestplate",
     "category": "Equipment/Armor"
   },
   {
-    "id": "chainmail_leggings",
+    "id": "minecraft:chainmail_leggings",
     "category": "Equipment/Armor"
   },
   {
-    "id": "chainmail_boots",
+    "id": "minecraft:chainmail_boots",
     "category": "Equipment/Armor"
   },
   {
-    "id": "iron_helmet",
+    "id": "minecraft:iron_helmet",
     "category": "Equipment/Armor"
   },
   {
-    "id": "iron_chestplate",
+    "id": "minecraft:iron_chestplate",
     "category": "Equipment/Armor"
   },
   {
-    "id": "iron_leggings",
+    "id": "minecraft:iron_leggings",
     "category": "Equipment/Armor"
   },
   {
-    "id": "iron_boots",
+    "id": "minecraft:iron_boots",
     "category": "Equipment/Armor"
   },
   {
-    "id": "diamond_helmet",
+    "id": "minecraft:diamond_helmet",
     "category": "Equipment/Armor"
   },
   {
-    "id": "diamond_chestplate",
+    "id": "minecraft:diamond_chestplate",
     "category": "Equipment/Armor"
   },
   {
-    "id": "diamond_leggings",
+    "id": "minecraft:diamond_leggings",
     "category": "Equipment/Armor"
   },
   {
-    "id": "diamond_boots",
+    "id": "minecraft:diamond_boots",
     "category": "Equipment/Armor"
   },
   {
-    "id": "golden_helmet",
+    "id": "minecraft:golden_helmet",
     "category": "Equipment/Armor"
   },
   {
-    "id": "golden_chestplate",
+    "id": "minecraft:golden_chestplate",
     "category": "Equipment/Armor"
   },
   {
-    "id": "golden_leggings",
+    "id": "minecraft:golden_leggings",
     "category": "Equipment/Armor"
   },
   {
-    "id": "golden_boots",
+    "id": "minecraft:golden_boots",
     "category": "Equipment/Armor"
   },
   {
@@ -11608,183 +11608,183 @@
     "category": "Equipment/Armor"
   },
   {
-    "id": "copper_horse_armor",
+    "id": "minecraft:copper_horse_armor",
     "category": "Equipment/Armor"
   },
   {
-    "id": "iron_horse_armor",
+    "id": "minecraft:iron_horse_armor",
     "category": "Equipment/Armor"
   },
   {
-    "id": "golden_horse_armor",
+    "id": "minecraft:golden_horse_armor",
     "category": "Equipment/Armor"
   },
   {
-    "id": "diamond_horse_armor",
+    "id": "minecraft:diamond_horse_armor",
     "category": "Equipment/Armor"
   },
   {
-    "id": "leather_horse_armor",
+    "id": "minecraft:leather_horse_armor",
     "category": "Equipment/Armor"
   },
   {
-    "id": "wolf_armor",
+    "id": "minecraft:wolf_armor",
     "category": "Equipment/Armor"
   },
   {
-    "id": "iron_block",
+    "id": "minecraft:iron_block",
     "category": "ValuableResources/Iron"
   },
   {
-    "id": "raw_iron",
+    "id": "minecraft:raw_iron",
     "category": "ValuableResources/Iron"
   },
   {
-    "id": "iron_ingot",
+    "id": "minecraft:iron_ingot",
     "category": "ValuableResources/Iron"
   },
   {
-    "id": "iron_nugget",
+    "id": "minecraft:iron_nugget",
     "category": "ValuableResources/Iron"
   },
   {
-    "id": "raw_iron_block",
+    "id": "minecraft:raw_iron_block",
     "category": "ValuableResources/Iron"
   },
   {
-    "id": "gold_block",
+    "id": "minecraft:gold_block",
     "category": "ValuableResources/Gold"
   },
   {
-    "id": "raw_gold",
+    "id": "minecraft:raw_gold",
     "category": "ValuableResources/Gold"
   },
   {
-    "id": "raw_gold_block",
+    "id": "minecraft:raw_gold_block",
     "category": "ValuableResources/Gold"
   },
   {
-    "id": "gold_ingot",
+    "id": "minecraft:gold_ingot",
     "category": "ValuableResources/Gold"
   },
   {
-    "id": "gold_nugget",
+    "id": "minecraft:gold_nugget",
     "category": "ValuableResources/Gold"
   },
   {
-    "id": "diamond_block",
+    "id": "minecraft:diamond_block",
     "category": "ValuableResources/Diamonds"
   },
   {
-    "id": "diamond",
+    "id": "minecraft:diamond",
     "category": "ValuableResources/Diamonds"
   },
   {
-    "id": "emerald_block",
+    "id": "minecraft:emerald_block",
     "category": "ValuableResources/Emeralds"
   },
   {
-    "id": "emerald",
+    "id": "minecraft:emerald",
     "category": "ValuableResources/Emeralds"
   },
   {
-    "id": "copper_ingot",
+    "id": "minecraft:copper_ingot",
     "category": "ValuableResources/Copper"
   },
   {
-    "id": "copper_nugget",
+    "id": "minecraft:copper_nugget",
     "category": "ValuableResources/Copper"
   },
   {
-    "id": "copper_block",
+    "id": "minecraft:copper_block",
     "category": "ValuableResources/Copper"
   },
   {
-    "id": "waxed_copper_block",
+    "id": "minecraft:waxed_copper_block",
     "category": "ValuableResources/Copper"
   },
   {
-    "id": "raw_copper",
+    "id": "minecraft:raw_copper",
     "category": "ValuableResources/Copper"
   },
   {
-    "id": "raw_copper_block",
+    "id": "minecraft:raw_copper_block",
     "category": "ValuableResources/Copper"
   },
   {
-    "id": "coal_block",
+    "id": "minecraft:coal_block",
     "category": "ValuableResources/Coal"
   },
   {
-    "id": "coal",
+    "id": "minecraft:coal",
     "category": "ValuableResources/Coal"
   },
   {
-    "id": "charcoal",
+    "id": "minecraft:charcoal",
     "category": "ValuableResources/Coal"
   },
   {
-    "id": "copper_ore",
+    "id": "minecraft:copper_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "deepslate_copper_ore",
+    "id": "minecraft:deepslate_copper_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "emerald_ore",
+    "id": "minecraft:emerald_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "deepslate_emerald_ore",
+    "id": "minecraft:deepslate_emerald_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "diamond_ore",
+    "id": "minecraft:diamond_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "deepslate_diamond_ore",
+    "id": "minecraft:deepslate_diamond_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "gold_ore",
+    "id": "minecraft:gold_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "deepslate_gold_ore",
+    "id": "minecraft:deepslate_gold_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "iron_ore",
+    "id": "minecraft:iron_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "deepslate_iron_ore",
+    "id": "minecraft:deepslate_iron_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "coal_ore",
+    "id": "minecraft:coal_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "deepslate_coal_ore",
+    "id": "minecraft:deepslate_coal_ore",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "netherite_block",
+    "id": "minecraft:netherite_block",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "netherite_ingot",
+    "id": "minecraft:netherite_ingot",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "netherite_scrap",
+    "id": "minecraft:netherite_scrap",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "quartz",
+    "id": "minecraft:quartz",
     "category": "ValuableResources/OtherRes"
   },
   {
@@ -11812,23 +11812,23 @@
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "amethyst_shard",
+    "id": "minecraft:amethyst_shard",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "lapis_lazuli",
+    "id": "minecraft:lapis_lazuli",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "ancient_debris",
+    "id": "minecraft:ancient_debris",
     "category": "ValuableResources/OtherRes"
   },
   {
-    "id": "sweet_berries",
+    "id": "minecraft:sweet_berries",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "glow_berries",
+    "id": "minecraft:glow_berries",
     "category": "Food/Raw/Plant"
   },
   {
@@ -11872,47 +11872,47 @@
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "melon",
+    "id": "minecraft:melon",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "carrot_on_a_stick",
+    "id": "minecraft:carrot_on_a_stick",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "apple",
+    "id": "minecraft:apple",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "golden_apple",
+    "id": "minecraft:golden_apple",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "enchanted_golden_apple",
+    "id": "minecraft:enchanted_golden_apple",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "melon_slice",
+    "id": "minecraft:melon_slice",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "glistering_melon_slice",
+    "id": "minecraft:glistering_melon_slice",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "carrot",
+    "id": "minecraft:carrot",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "potato",
+    "id": "minecraft:potato",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "poisonous_potato",
+    "id": "minecraft:poisonous_potato",
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "golden_carrot",
+    "id": "minecraft:golden_carrot",
     "category": "Food/Raw/Plant"
   },
   {
@@ -12000,55 +12000,55 @@
     "category": "Food/Raw/Plant"
   },
   {
-    "id": "porkchop",
+    "id": "minecraft:porkchop",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "pufferfish_bucket",
+    "id": "minecraft:pufferfish_bucket",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "tropical_fish_bucket",
+    "id": "minecraft:tropical_fish_bucket",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "fishing_rod",
+    "id": "minecraft:fishing_rod",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "tropical_fish",
+    "id": "minecraft:tropical_fish",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "pufferfish",
+    "id": "minecraft:pufferfish",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "beef",
+    "id": "minecraft:beef",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "chicken",
+    "id": "minecraft:chicken",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "rabbit",
+    "id": "minecraft:rabbit",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "rabbit_foot",
+    "id": "minecraft:rabbit_foot",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "rabbit_hide",
+    "id": "minecraft:rabbit_hide",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "mutton",
+    "id": "minecraft:mutton",
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "music_disc_lava_chicken",
+    "id": "minecraft:music_disc_lava_chicken",
     "category": "Food/Raw/MeatFish"
   },
   {
@@ -12264,35 +12264,35 @@
     "category": "Food/Raw/MeatFish"
   },
   {
-    "id": "pumpkin",
+    "id": "minecraft:pumpkin",
     "category": "Food/Raw/OtherFood"
   },
   {
-    "id": "brown_mushroom",
+    "id": "minecraft:brown_mushroom",
     "category": "Food/Raw/OtherFood"
   },
   {
-    "id": "red_mushroom",
+    "id": "minecraft:red_mushroom",
     "category": "Food/Raw/OtherFood"
   },
   {
-    "id": "cake",
+    "id": "minecraft:cake",
     "category": "Food/Raw/OtherFood"
   },
   {
-    "id": "cookie",
+    "id": "minecraft:cookie",
     "category": "Food/Raw/OtherFood"
   },
   {
-    "id": "egg",
+    "id": "minecraft:egg",
     "category": "Food/Raw/OtherFood"
   },
   {
-    "id": "blue_egg",
+    "id": "minecraft:blue_egg",
     "category": "Food/Raw/OtherFood"
   },
   {
-    "id": "brown_egg",
+    "id": "minecraft:brown_egg",
     "category": "Food/Raw/OtherFood"
   },
   {
@@ -12460,51 +12460,51 @@
     "category": "Food/Cooked"
   },
   {
-    "id": "mushroom_stew",
+    "id": "minecraft:mushroom_stew",
     "category": "Food/Cooked"
   },
   {
-    "id": "cooked_porkchop",
+    "id": "minecraft:cooked_porkchop",
     "category": "Food/Cooked"
   },
   {
-    "id": "cooked_cod",
+    "id": "minecraft:cooked_cod",
     "category": "Food/Cooked"
   },
   {
-    "id": "cooked_salmon",
+    "id": "minecraft:cooked_salmon",
     "category": "Food/Cooked"
   },
   {
-    "id": "cooked_beef",
+    "id": "minecraft:cooked_beef",
     "category": "Food/Cooked"
   },
   {
-    "id": "cooked_chicken",
+    "id": "minecraft:cooked_chicken",
     "category": "Food/Cooked"
   },
   {
-    "id": "baked_potato",
+    "id": "minecraft:baked_potato",
     "category": "Food/Cooked"
   },
   {
-    "id": "pumpkin_pie",
+    "id": "minecraft:pumpkin_pie",
     "category": "Food/Cooked"
   },
   {
-    "id": "cooked_rabbit",
+    "id": "minecraft:cooked_rabbit",
     "category": "Food/Cooked"
   },
   {
-    "id": "rabbit_stew",
+    "id": "minecraft:rabbit_stew",
     "category": "Food/Cooked"
   },
   {
-    "id": "cooked_mutton",
+    "id": "minecraft:cooked_mutton",
     "category": "Food/Cooked"
   },
   {
-    "id": "suspicious_stew",
+    "id": "minecraft:suspicious_stew",
     "category": "Food/Cooked"
   },
   {
@@ -12580,19 +12580,19 @@
     "category": "Food/Cooked"
   },
   {
-    "id": "enchanted_book",
+    "id": "minecraft:enchanted_book",
     "category": "Magic/EnchantedBooks"
   },
   {
-    "id": "potion",
+    "id": "minecraft:potion",
     "category": "Magic/Potions"
   },
   {
-    "id": "splash_potion",
+    "id": "minecraft:splash_potion",
     "category": "Magic/Potions"
   },
   {
-    "id": "lingering_potion",
+    "id": "minecraft:lingering_potion",
     "category": "Magic/Potions"
   },
   {
@@ -12604,55 +12604,55 @@
     "category": "Magic/Alchemy"
   },
   {
-    "id": "blaze_powder",
+    "id": "minecraft:blaze_powder",
     "category": "Magic/Alchemy"
   },
   {
-    "id": "magma_cream",
+    "id": "minecraft:magma_cream",
     "category": "Magic/Alchemy"
   },
   {
-    "id": "sugar",
+    "id": "minecraft:sugar",
     "category": "Magic/Alchemy"
   },
   {
-    "id": "ghast_tear",
+    "id": "minecraft:ghast_tear",
     "category": "Magic/Alchemy"
   },
   {
-    "id": "glass_bottle",
+    "id": "minecraft:glass_bottle",
     "category": "Magic/Alchemy"
   },
   {
-    "id": "spider_eye",
+    "id": "minecraft:spider_eye",
     "category": "Magic/Alchemy"
   },
   {
-    "id": "fermented_spider_eye",
+    "id": "minecraft:fermented_spider_eye",
     "category": "Magic/Alchemy"
   },
   {
-    "id": "breeze_rod",
+    "id": "minecraft:breeze_rod",
     "category": "Magic/Alchemy"
   },
   {
-    "id": "glowstone_dust",
+    "id": "minecraft:glowstone_dust",
     "category": "Magic/Alchemy"
   },
   {
-    "id": "stick",
+    "id": "minecraft:stick",
     "category": "Crafting/Materials"
   },
   {
-    "id": "string",
+    "id": "minecraft:string",
     "category": "Crafting/Materials"
   },
   {
-    "id": "feather",
+    "id": "minecraft:feather",
     "category": "Crafting/Materials"
   },
   {
-    "id": "gunpowder",
+    "id": "minecraft:gunpowder",
     "category": "Crafting/Materials"
   },
   {
@@ -12684,7 +12684,7 @@
     "category": "Crafting/Materials"
   },
   {
-    "id": "netherite_upgrade_smithing_template",
+    "id": "minecraft:netherite_upgrade_smithing_template",
     "category": "Crafting/Materials"
   },
   {
@@ -12692,75 +12692,75 @@
     "category": "Crafting/Materials"
   },
   {
-    "id": "sentry_armor_trim_smithing_template",
+    "id": "minecraft:sentry_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "dune_armor_trim_smithing_template",
+    "id": "minecraft:dune_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "coast_armor_trim_smithing_template",
+    "id": "minecraft:coast_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "wild_armor_trim_smithing_template",
+    "id": "minecraft:wild_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "ward_armor_trim_smithing_template",
+    "id": "minecraft:ward_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "eye_armor_trim_smithing_template",
+    "id": "minecraft:eye_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "vex_armor_trim_smithing_template",
+    "id": "minecraft:vex_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "tide_armor_trim_smithing_template",
+    "id": "minecraft:tide_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "snout_armor_trim_smithing_template",
+    "id": "minecraft:snout_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "rib_armor_trim_smithing_template",
+    "id": "minecraft:rib_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "spire_armor_trim_smithing_template",
+    "id": "minecraft:spire_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "wayfinder_armor_trim_smithing_template",
+    "id": "minecraft:wayfinder_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "shaper_armor_trim_smithing_template",
+    "id": "minecraft:shaper_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "silence_armor_trim_smithing_template",
+    "id": "minecraft:silence_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "raiser_armor_trim_smithing_template",
+    "id": "minecraft:raiser_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "host_armor_trim_smithing_template",
+    "id": "minecraft:host_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "flow_armor_trim_smithing_template",
+    "id": "minecraft:flow_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
-    "id": "bolt_armor_trim_smithing_template",
+    "id": "minecraft:bolt_armor_trim_smithing_template",
     "category": "Crafting/Materials"
   },
   {
@@ -12768,103 +12768,103 @@
     "category": "Crafting/Materials"
   },
   {
-    "id": "leather",
+    "id": "minecraft:leather",
     "category": "Crafting/Materials"
   },
   {
-    "id": "brick",
+    "id": "minecraft:brick",
     "category": "Crafting/Materials"
   },
   {
-    "id": "paper",
+    "id": "minecraft:paper",
     "category": "Crafting/Materials"
   },
   {
-    "id": "book",
+    "id": "minecraft:book",
     "category": "Crafting/Materials"
   },
   {
-    "id": "ink_sac",
+    "id": "minecraft:ink_sac",
     "category": "Crafting/Materials"
   },
   {
-    "id": "glow_ink_sac",
+    "id": "minecraft:glow_ink_sac",
     "category": "Crafting/Materials"
   },
   {
-    "id": "bone",
+    "id": "minecraft:bone",
     "category": "Crafting/Materials"
   },
   {
-    "id": "blaze_rod",
+    "id": "minecraft:blaze_rod",
     "category": "Crafting/Materials"
   },
   {
-    "id": "shulker_shell",
+    "id": "minecraft:shulker_shell",
     "category": "Crafting/Materials"
   },
   {
-    "id": "white_dye",
+    "id": "minecraft:white_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "orange_dye",
+    "id": "minecraft:orange_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "magenta_dye",
+    "id": "minecraft:magenta_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "light_blue_dye",
+    "id": "minecraft:light_blue_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "yellow_dye",
+    "id": "minecraft:yellow_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "lime_dye",
+    "id": "minecraft:lime_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "pink_dye",
+    "id": "minecraft:pink_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "gray_dye",
+    "id": "minecraft:gray_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "light_gray_dye",
+    "id": "minecraft:light_gray_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "cyan_dye",
+    "id": "minecraft:cyan_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "purple_dye",
+    "id": "minecraft:purple_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "blue_dye",
+    "id": "minecraft:blue_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "brown_dye",
+    "id": "minecraft:brown_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "green_dye",
+    "id": "minecraft:green_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "red_dye",
+    "id": "minecraft:red_dye",
     "category": "Crafting/Materials"
   },
   {
-    "id": "black_dye",
+    "id": "minecraft:black_dye",
     "category": "Crafting/Materials"
   },
   {
@@ -12940,63 +12940,63 @@
     "category": "Plants/Saplings"
   },
   {
-    "id": "oak_sapling",
+    "id": "minecraft:oak_sapling",
     "category": "Plants/Saplings"
   },
   {
-    "id": "spruce_sapling",
+    "id": "minecraft:spruce_sapling",
     "category": "Plants/Saplings"
   },
   {
-    "id": "birch_sapling",
+    "id": "minecraft:birch_sapling",
     "category": "Plants/Saplings"
   },
   {
-    "id": "jungle_sapling",
+    "id": "minecraft:jungle_sapling",
     "category": "Plants/Saplings"
   },
   {
-    "id": "acacia_sapling",
+    "id": "minecraft:acacia_sapling",
     "category": "Plants/Saplings"
   },
   {
-    "id": "cherry_sapling",
+    "id": "minecraft:cherry_sapling",
     "category": "Plants/Saplings"
   },
   {
-    "id": "dark_oak_sapling",
+    "id": "minecraft:dark_oak_sapling",
     "category": "Plants/Saplings"
   },
   {
-    "id": "pale_oak_sapling",
+    "id": "minecraft:pale_oak_sapling",
     "category": "Plants/Saplings"
   },
   {
-    "id": "mangrove_propagule",
+    "id": "minecraft:mangrove_propagule",
     "category": "Plants/Saplings"
   },
   {
-    "id": "azalea",
+    "id": "minecraft:azalea",
     "category": "Plants/Saplings"
   },
   {
-    "id": "flowering_azalea",
+    "id": "minecraft:flowering_azalea",
     "category": "Plants/Saplings"
   },
   {
-    "id": "wheat_seeds",
+    "id": "minecraft:wheat_seeds",
     "category": "Plants/Seeds"
   },
   {
-    "id": "pumpkin_seeds",
+    "id": "minecraft:pumpkin_seeds",
     "category": "Plants/Seeds"
   },
   {
-    "id": "torchflower_seeds",
+    "id": "minecraft:torchflower_seeds",
     "category": "Plants/Seeds"
   },
   {
-    "id": "beetroot_seeds",
+    "id": "minecraft:beetroot_seeds",
     "category": "Plants/Seeds"
   },
   {
@@ -13008,87 +13008,87 @@
     "category": "Plants/Seeds"
   },
   {
-    "id": "melon_seeds",
+    "id": "minecraft:melon_seeds",
     "category": "Plants/Seeds"
   },
   {
-    "id": "bamboo",
+    "id": "minecraft:bamboo",
     "category": "Plants/Bamboo"
   },
   {
-    "id": "cactus",
+    "id": "minecraft:cactus",
     "category": "Plants/Cactus"
   },
   {
-    "id": "wheat",
+    "id": "minecraft:wheat",
     "category": "Plants/Wheat"
   },
   {
-    "id": "sugar_cane",
+    "id": "minecraft:sugar_cane",
     "category": "Plants/SugarCane"
   },
   {
-    "id": "short_grass",
+    "id": "minecraft:short_grass",
     "category": "Plants/Flowers"
   },
   {
-    "id": "fern",
+    "id": "minecraft:fern",
     "category": "Plants/Flowers"
   },
   {
-    "id": "bush",
+    "id": "minecraft:bush",
     "category": "Plants/Flowers"
   },
   {
-    "id": "dead_bush",
+    "id": "minecraft:dead_bush",
     "category": "Plants/Flowers"
   },
   {
-    "id": "firefly_bush",
+    "id": "minecraft:firefly_bush",
     "category": "Plants/Flowers"
   },
   {
-    "id": "short_dry_grass",
+    "id": "minecraft:short_dry_grass",
     "category": "Plants/Flowers"
   },
   {
-    "id": "tall_dry_grass",
+    "id": "minecraft:tall_dry_grass",
     "category": "Plants/Flowers"
   },
   {
-    "id": "seagrass",
+    "id": "minecraft:seagrass",
     "category": "Plants/Flowers"
   },
   {
-    "id": "sea_pickle",
+    "id": "minecraft:sea_pickle",
     "category": "Plants/Flowers"
   },
   {
-    "id": "wildflowers",
+    "id": "minecraft:wildflowers",
     "category": "Plants/Flowers"
   },
   {
-    "id": "cactus_flower",
+    "id": "minecraft:cactus_flower",
     "category": "Plants/Flowers"
   },
   {
-    "id": "sunflower",
+    "id": "minecraft:sunflower",
     "category": "Plants/Flowers"
   },
   {
-    "id": "lilac",
+    "id": "minecraft:lilac",
     "category": "Plants/Flowers"
   },
   {
-    "id": "rose_bush",
+    "id": "minecraft:rose_bush",
     "category": "Plants/Flowers"
   },
   {
-    "id": "peony",
+    "id": "minecraft:peony",
     "category": "Plants/Flowers"
   },
   {
-    "id": "flower_pot",
+    "id": "minecraft:flower_pot",
     "category": "Plants/Flowers"
   },
   {
@@ -13104,75 +13104,75 @@
     "category": "Plants/Flowers"
   },
   {
-    "id": "chorus_flower",
+    "id": "minecraft:chorus_flower",
     "category": "Plants/Flowers"
   },
   {
-    "id": "dandelion",
+    "id": "minecraft:dandelion",
     "category": "Plants/Flowers"
   },
   {
-    "id": "open_eyeblossom",
+    "id": "minecraft:open_eyeblossom",
     "category": "Plants/Flowers"
   },
   {
-    "id": "closed_eyeblossom",
+    "id": "minecraft:closed_eyeblossom",
     "category": "Plants/Flowers"
   },
   {
-    "id": "poppy",
+    "id": "minecraft:poppy",
     "category": "Plants/Flowers"
   },
   {
-    "id": "blue_orchid",
+    "id": "minecraft:blue_orchid",
     "category": "Plants/Flowers"
   },
   {
-    "id": "allium",
+    "id": "minecraft:allium",
     "category": "Plants/Flowers"
   },
   {
-    "id": "azure_bluet",
+    "id": "minecraft:azure_bluet",
     "category": "Plants/Flowers"
   },
   {
-    "id": "red_tulip",
+    "id": "minecraft:red_tulip",
     "category": "Plants/Flowers"
   },
   {
-    "id": "orange_tulip",
+    "id": "minecraft:orange_tulip",
     "category": "Plants/Flowers"
   },
   {
-    "id": "white_tulip",
+    "id": "minecraft:white_tulip",
     "category": "Plants/Flowers"
   },
   {
-    "id": "pink_tulip",
+    "id": "minecraft:pink_tulip",
     "category": "Plants/Flowers"
   },
   {
-    "id": "oxeye_daisy",
+    "id": "minecraft:oxeye_daisy",
     "category": "Plants/Flowers"
   },
   {
-    "id": "cornflower",
+    "id": "minecraft:cornflower",
     "category": "Plants/Flowers"
   },
   {
-    "id": "lily_of_the_valley",
+    "id": "minecraft:lily_of_the_valley",
     "category": "Plants/Flowers"
   },
   {
-    "id": "wither_rose",
+    "id": "minecraft:wither_rose",
     "category": "Plants/Flowers"
   },
   {
-    "id": "torchflower",
+    "id": "minecraft:torchflower",
     "category": "Plants/Flowers"
   },
   {
-    "id": "pitcher_plant",
+    "id": "minecraft:pitcher_plant",
     "category": "Plants/Flowers"
   },
   {
@@ -13180,19 +13180,19 @@
     "category": "Plants/Flowers"
   },
   {
-    "id": "redstone",
+    "id": "minecraft:redstone",
     "category": "Mechanisms/Redstone"
   },
   {
-    "id": "redstone_block",
+    "id": "minecraft:redstone_block",
     "category": "Mechanisms/Redstone"
   },
   {
-    "id": "redstone_ore",
+    "id": "minecraft:redstone_ore",
     "category": "Mechanisms/Redstone"
   },
   {
-    "id": "deepslate_redstone_ore",
+    "id": "minecraft:deepslate_redstone_ore",
     "category": "Mechanisms/Redstone"
   },
   {
@@ -13284,7 +13284,7 @@
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "crafter",
+    "id": "minecraft:crafter",
     "category": "Mechanisms/Vanilla"
   },
   {
@@ -13360,15 +13360,15 @@
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "polished_blackstone_button",
+    "id": "minecraft:polished_blackstone_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "crimson_button",
+    "id": "minecraft:crimson_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "warped_button",
+    "id": "minecraft:warped_button",
     "category": "Mechanisms/Vanilla"
   },
   {
@@ -13448,7 +13448,7 @@
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "stone_button",
+    "id": "minecraft:stone_button",
     "category": "Mechanisms/Vanilla"
   },
   {
@@ -13536,51 +13536,51 @@
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "conduit",
+    "id": "minecraft:conduit",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "scaffolding",
+    "id": "minecraft:scaffolding",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "hopper",
+    "id": "minecraft:hopper",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "dispenser",
+    "id": "minecraft:dispenser",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "dropper",
+    "id": "minecraft:dropper",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "lectern",
+    "id": "minecraft:lectern",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "target",
+    "id": "minecraft:target",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "lever",
+    "id": "minecraft:lever",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "lightning_rod",
+    "id": "minecraft:lightning_rod",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "exposed_lightning_rod",
+    "id": "minecraft:exposed_lightning_rod",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "weathered_lightning_rod",
+    "id": "minecraft:weathered_lightning_rod",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "oxidized_lightning_rod",
+    "id": "minecraft:oxidized_lightning_rod",
     "category": "Mechanisms/Vanilla"
   },
   {
@@ -13912,331 +13912,331 @@
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "crimson_sign",
+    "id": "minecraft:crimson_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "warped_sign",
+    "id": "minecraft:warped_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "crimson_hanging_sign",
+    "id": "minecraft:crimson_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "warped_hanging_sign",
+    "id": "minecraft:warped_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "oak_sign",
+    "id": "minecraft:oak_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "spruce_sign",
+    "id": "minecraft:spruce_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "birch_sign",
+    "id": "minecraft:birch_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "jungle_sign",
+    "id": "minecraft:jungle_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "acacia_sign",
+    "id": "minecraft:acacia_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "cherry_sign",
+    "id": "minecraft:cherry_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "dark_oak_sign",
+    "id": "minecraft:dark_oak_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "pale_oak_sign",
+    "id": "minecraft:pale_oak_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "mangrove_sign",
+    "id": "minecraft:mangrove_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "bamboo_sign",
+    "id": "minecraft:bamboo_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "oak_hanging_sign",
+    "id": "minecraft:oak_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "spruce_hanging_sign",
+    "id": "minecraft:spruce_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "birch_hanging_sign",
+    "id": "minecraft:birch_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "jungle_hanging_sign",
+    "id": "minecraft:jungle_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "acacia_hanging_sign",
+    "id": "minecraft:acacia_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "cherry_hanging_sign",
+    "id": "minecraft:cherry_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "dark_oak_hanging_sign",
+    "id": "minecraft:dark_oak_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "pale_oak_hanging_sign",
+    "id": "minecraft:pale_oak_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "mangrove_hanging_sign",
+    "id": "minecraft:mangrove_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "bamboo_hanging_sign",
+    "id": "minecraft:bamboo_hanging_sign",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "daylight_detector",
+    "id": "minecraft:daylight_detector",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "sculk_sensor",
+    "id": "minecraft:sculk_sensor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "calibrated_sculk_sensor",
+    "id": "minecraft:calibrated_sculk_sensor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "tripwire_hook",
+    "id": "minecraft:tripwire_hook",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "trapped_chest",
+    "id": "minecraft:trapped_chest",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "tnt",
+    "id": "minecraft:tnt",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "oak_button",
+    "id": "minecraft:oak_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "spruce_button",
+    "id": "minecraft:spruce_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "birch_button",
+    "id": "minecraft:birch_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "jungle_button",
+    "id": "minecraft:jungle_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "acacia_button",
+    "id": "minecraft:acacia_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "cherry_button",
+    "id": "minecraft:cherry_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "dark_oak_button",
+    "id": "minecraft:dark_oak_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "pale_oak_button",
+    "id": "minecraft:pale_oak_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "mangrove_button",
+    "id": "minecraft:mangrove_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "bamboo_button",
+    "id": "minecraft:bamboo_button",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "light_weighted_pressure_plate",
+    "id": "minecraft:light_weighted_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "heavy_weighted_pressure_plate",
+    "id": "minecraft:heavy_weighted_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "oak_pressure_plate",
+    "id": "minecraft:oak_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "spruce_pressure_plate",
+    "id": "minecraft:spruce_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "birch_pressure_plate",
+    "id": "minecraft:birch_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "jungle_pressure_plate",
+    "id": "minecraft:jungle_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "acacia_pressure_plate",
+    "id": "minecraft:acacia_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "cherry_pressure_plate",
+    "id": "minecraft:cherry_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "dark_oak_pressure_plate",
+    "id": "minecraft:dark_oak_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "pale_oak_pressure_plate",
+    "id": "minecraft:pale_oak_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "mangrove_pressure_plate",
+    "id": "minecraft:mangrove_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "bamboo_pressure_plate",
+    "id": "minecraft:bamboo_pressure_plate",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "iron_door",
+    "id": "minecraft:iron_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "oak_door",
+    "id": "minecraft:oak_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "spruce_door",
+    "id": "minecraft:spruce_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "birch_door",
+    "id": "minecraft:birch_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "jungle_door",
+    "id": "minecraft:jungle_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "acacia_door",
+    "id": "minecraft:acacia_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "cherry_door",
+    "id": "minecraft:cherry_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "dark_oak_door",
+    "id": "minecraft:dark_oak_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "pale_oak_door",
+    "id": "minecraft:pale_oak_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "mangrove_door",
+    "id": "minecraft:mangrove_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "bamboo_door",
+    "id": "minecraft:bamboo_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "copper_door",
+    "id": "minecraft:copper_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "exposed_copper_door",
+    "id": "minecraft:exposed_copper_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "weathered_copper_door",
+    "id": "minecraft:weathered_copper_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "oxidized_copper_door",
+    "id": "minecraft:oxidized_copper_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "iron_trapdoor",
+    "id": "minecraft:iron_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "oak_trapdoor",
+    "id": "minecraft:oak_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "spruce_trapdoor",
+    "id": "minecraft:spruce_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "birch_trapdoor",
+    "id": "minecraft:birch_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "jungle_trapdoor",
+    "id": "minecraft:jungle_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "acacia_trapdoor",
+    "id": "minecraft:acacia_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "cherry_trapdoor",
+    "id": "minecraft:cherry_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "dark_oak_trapdoor",
+    "id": "minecraft:dark_oak_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "pale_oak_trapdoor",
+    "id": "minecraft:pale_oak_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "mangrove_trapdoor",
+    "id": "minecraft:mangrove_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "bamboo_trapdoor",
+    "id": "minecraft:bamboo_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "copper_trapdoor",
+    "id": "minecraft:copper_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "exposed_copper_trapdoor",
+    "id": "minecraft:exposed_copper_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "weathered_copper_trapdoor",
+    "id": "minecraft:weathered_copper_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "oxidized_copper_trapdoor",
+    "id": "minecraft:oxidized_copper_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
@@ -14368,19 +14368,19 @@
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "crimson_door",
+    "id": "minecraft:crimson_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "warped_door",
+    "id": "minecraft:warped_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "crimson_trapdoor",
+    "id": "minecraft:crimson_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "warped_trapdoor",
+    "id": "minecraft:warped_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
@@ -14416,127 +14416,127 @@
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "waxed_copper_door",
+    "id": "minecraft:waxed_copper_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "waxed_exposed_copper_door",
+    "id": "minecraft:waxed_exposed_copper_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "waxed_weathered_copper_door",
+    "id": "minecraft:waxed_weathered_copper_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "waxed_oxidized_copper_door",
+    "id": "minecraft:waxed_oxidized_copper_door",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "waxed_copper_trapdoor",
+    "id": "minecraft:waxed_copper_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "waxed_exposed_copper_trapdoor",
+    "id": "minecraft:waxed_exposed_copper_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "waxed_weathered_copper_trapdoor",
+    "id": "minecraft:waxed_weathered_copper_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "waxed_oxidized_copper_trapdoor",
+    "id": "minecraft:waxed_oxidized_copper_trapdoor",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "repeater",
+    "id": "minecraft:repeater",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "comparator",
+    "id": "minecraft:comparator",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "piston",
+    "id": "minecraft:piston",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "sticky_piston",
+    "id": "minecraft:sticky_piston",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "observer",
+    "id": "minecraft:observer",
     "category": "Mechanisms/Vanilla"
   },
   {
-    "id": "oak_boat",
+    "id": "minecraft:oak_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "oak_chest_boat",
+    "id": "minecraft:oak_chest_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "spruce_boat",
+    "id": "minecraft:spruce_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "spruce_chest_boat",
+    "id": "minecraft:spruce_chest_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "birch_boat",
+    "id": "minecraft:birch_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "birch_chest_boat",
+    "id": "minecraft:birch_chest_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "jungle_boat",
+    "id": "minecraft:jungle_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "jungle_chest_boat",
+    "id": "minecraft:jungle_chest_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "acacia_boat",
+    "id": "minecraft:acacia_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "acacia_chest_boat",
+    "id": "minecraft:acacia_chest_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "cherry_boat",
+    "id": "minecraft:cherry_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "cherry_chest_boat",
+    "id": "minecraft:cherry_chest_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "dark_oak_boat",
+    "id": "minecraft:dark_oak_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "dark_oak_chest_boat",
+    "id": "minecraft:dark_oak_chest_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "pale_oak_boat",
+    "id": "minecraft:pale_oak_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "pale_oak_chest_boat",
+    "id": "minecraft:pale_oak_chest_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "mangrove_boat",
+    "id": "minecraft:mangrove_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "mangrove_chest_boat",
+    "id": "minecraft:mangrove_chest_boat",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
@@ -14644,47 +14644,47 @@
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "bamboo_raft",
+    "id": "minecraft:bamboo_raft",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "bamboo_chest_raft",
+    "id": "minecraft:bamboo_chest_raft",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "powered_rail",
+    "id": "minecraft:powered_rail",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "detector_rail",
+    "id": "minecraft:detector_rail",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "rail",
+    "id": "minecraft:rail",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "activator_rail",
+    "id": "minecraft:activator_rail",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "minecart",
+    "id": "minecraft:minecart",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "chest_minecart",
+    "id": "minecraft:chest_minecart",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "furnace_minecart",
+    "id": "minecraft:furnace_minecart",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "tnt_minecart",
+    "id": "minecraft:tnt_minecart",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
-    "id": "hopper_minecart",
+    "id": "minecraft:hopper_minecart",
     "category": "Mechanisms/RailsMinecarts"
   },
   {
@@ -15104,979 +15104,979 @@
     "category": "Mechanisms/PolyfactoryMachines"
   },
   {
-    "id": "budding_amethyst",
+    "id": "minecraft:budding_amethyst",
     "category": "ManualSorting"
   },
   {
-    "id": "mangrove_roots",
+    "id": "minecraft:mangrove_roots",
     "category": "ManualSorting"
   },
   {
-    "id": "muddy_mangrove_roots",
+    "id": "minecraft:muddy_mangrove_roots",
     "category": "ManualSorting"
   },
   {
-    "id": "cobweb",
+    "id": "minecraft:cobweb",
     "category": "ManualSorting"
   },
   {
-    "id": "weeping_vines",
+    "id": "minecraft:weeping_vines",
     "category": "ManualSorting"
   },
   {
-    "id": "twisting_vines",
+    "id": "minecraft:twisting_vines",
     "category": "ManualSorting"
   },
   {
-    "id": "kelp",
+    "id": "minecraft:kelp",
     "category": "ManualSorting"
   },
   {
-    "id": "pink_petals",
+    "id": "minecraft:pink_petals",
     "category": "ManualSorting"
   },
   {
-    "id": "leaf_litter",
+    "id": "minecraft:leaf_litter",
     "category": "ManualSorting"
   },
   {
-    "id": "moss_carpet",
+    "id": "minecraft:moss_carpet",
     "category": "ManualSorting"
   },
   {
-    "id": "pale_moss_carpet",
+    "id": "minecraft:pale_moss_carpet",
     "category": "ManualSorting"
   },
   {
-    "id": "pale_hanging_moss",
+    "id": "minecraft:pale_hanging_moss",
     "category": "ManualSorting"
   },
   {
-    "id": "hanging_roots",
+    "id": "minecraft:hanging_roots",
     "category": "ManualSorting"
   },
   {
-    "id": "big_dripleaf",
+    "id": "minecraft:big_dripleaf",
     "category": "ManualSorting"
   },
   {
-    "id": "small_dripleaf",
+    "id": "minecraft:small_dripleaf",
     "category": "ManualSorting"
   },
   {
-    "id": "smooth_quartz",
+    "id": "minecraft:smooth_quartz",
     "category": "ManualSorting"
   },
   {
-    "id": "bookshelf",
+    "id": "minecraft:bookshelf",
     "category": "ManualSorting"
   },
   {
-    "id": "chiseled_bookshelf",
+    "id": "minecraft:chiseled_bookshelf",
     "category": "ManualSorting"
   },
   {
-    "id": "decorated_pot",
+    "id": "minecraft:decorated_pot",
     "category": "ManualSorting"
   },
   {
-    "id": "creaking_heart",
+    "id": "minecraft:creaking_heart",
     "category": "ManualSorting"
   },
   {
-    "id": "snow",
+    "id": "minecraft:snow",
     "category": "ManualSorting"
   },
   {
-    "id": "clay",
+    "id": "minecraft:clay",
     "category": "ManualSorting"
   },
   {
-    "id": "jukebox",
+    "id": "minecraft:jukebox",
     "category": "ManualSorting"
   },
   {
-    "id": "carved_pumpkin",
+    "id": "minecraft:carved_pumpkin",
     "category": "ManualSorting"
   },
   {
-    "id": "soul_soil",
+    "id": "minecraft:soul_soil",
     "category": "ManualSorting"
   },
   {
-    "id": "packed_mud",
+    "id": "minecraft:packed_mud",
     "category": "ManualSorting"
   },
   {
-    "id": "vine",
+    "id": "minecraft:vine",
     "category": "ManualSorting"
   },
   {
-    "id": "glow_lichen",
+    "id": "minecraft:glow_lichen",
     "category": "ManualSorting"
   },
   {
-    "id": "resin_clump",
+    "id": "minecraft:resin_clump",
     "category": "ManualSorting"
   },
   {
-    "id": "lily_pad",
+    "id": "minecraft:lily_pad",
     "category": "ManualSorting"
   },
   {
-    "id": "dragon_egg",
+    "id": "minecraft:dragon_egg",
     "category": "ManualSorting"
   },
   {
-    "id": "beacon",
+    "id": "minecraft:beacon",
     "category": "ManualSorting"
   },
   {
-    "id": "quartz_pillar",
+    "id": "minecraft:quartz_pillar",
     "category": "ManualSorting"
   },
   {
-    "id": "packed_ice",
+    "id": "minecraft:packed_ice",
     "category": "ManualSorting"
   },
   {
-    "id": "tall_grass",
+    "id": "minecraft:tall_grass",
     "category": "ManualSorting"
   },
   {
-    "id": "large_fern",
+    "id": "minecraft:large_fern",
     "category": "ManualSorting"
   },
   {
-    "id": "dark_prismarine",
+    "id": "minecraft:dark_prismarine",
     "category": "ManualSorting"
   },
   {
-    "id": "sea_lantern",
+    "id": "minecraft:sea_lantern",
     "category": "ManualSorting"
   },
   {
-    "id": "structure_void",
+    "id": "minecraft:structure_void",
     "category": "ManualSorting"
   },
   {
-    "id": "shulker_box",
+    "id": "minecraft:shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "white_shulker_box",
+    "id": "minecraft:white_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "orange_shulker_box",
+    "id": "minecraft:orange_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "magenta_shulker_box",
+    "id": "minecraft:magenta_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "light_blue_shulker_box",
+    "id": "minecraft:light_blue_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "yellow_shulker_box",
+    "id": "minecraft:yellow_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "lime_shulker_box",
+    "id": "minecraft:lime_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "pink_shulker_box",
+    "id": "minecraft:pink_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "gray_shulker_box",
+    "id": "minecraft:gray_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "light_gray_shulker_box",
+    "id": "minecraft:light_gray_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "cyan_shulker_box",
+    "id": "minecraft:cyan_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "purple_shulker_box",
+    "id": "minecraft:purple_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "blue_shulker_box",
+    "id": "minecraft:blue_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "brown_shulker_box",
+    "id": "minecraft:brown_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "green_shulker_box",
+    "id": "minecraft:green_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "red_shulker_box",
+    "id": "minecraft:red_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "black_shulker_box",
+    "id": "minecraft:black_shulker_box",
     "category": "ManualSorting"
   },
   {
-    "id": "turtle_egg",
+    "id": "minecraft:turtle_egg",
     "category": "ManualSorting"
   },
   {
-    "id": "sniffer_egg",
+    "id": "minecraft:sniffer_egg",
     "category": "ManualSorting"
   },
   {
-    "id": "dried_ghast",
+    "id": "minecraft:dried_ghast",
     "category": "ManualSorting"
   },
   {
-    "id": "dead_brain_coral",
+    "id": "minecraft:dead_brain_coral",
     "category": "ManualSorting"
   },
   {
-    "id": "dead_bubble_coral",
+    "id": "minecraft:dead_bubble_coral",
     "category": "ManualSorting"
   },
   {
-    "id": "dead_fire_coral",
+    "id": "minecraft:dead_fire_coral",
     "category": "ManualSorting"
   },
   {
-    "id": "dead_horn_coral",
+    "id": "minecraft:dead_horn_coral",
     "category": "ManualSorting"
   },
   {
-    "id": "dead_tube_coral",
+    "id": "minecraft:dead_tube_coral",
     "category": "ManualSorting"
   },
   {
-    "id": "tube_coral_fan",
+    "id": "minecraft:tube_coral_fan",
     "category": "ManualSorting"
   },
   {
-    "id": "brain_coral_fan",
+    "id": "minecraft:brain_coral_fan",
     "category": "ManualSorting"
   },
   {
-    "id": "bubble_coral_fan",
+    "id": "minecraft:bubble_coral_fan",
     "category": "ManualSorting"
   },
   {
-    "id": "fire_coral_fan",
+    "id": "minecraft:fire_coral_fan",
     "category": "ManualSorting"
   },
   {
-    "id": "horn_coral_fan",
+    "id": "minecraft:horn_coral_fan",
     "category": "ManualSorting"
   },
   {
-    "id": "dead_tube_coral_fan",
+    "id": "minecraft:dead_tube_coral_fan",
     "category": "ManualSorting"
   },
   {
-    "id": "dead_brain_coral_fan",
+    "id": "minecraft:dead_brain_coral_fan",
     "category": "ManualSorting"
   },
   {
-    "id": "dead_bubble_coral_fan",
+    "id": "minecraft:dead_bubble_coral_fan",
     "category": "ManualSorting"
   },
   {
-    "id": "dead_fire_coral_fan",
+    "id": "minecraft:dead_fire_coral_fan",
     "category": "ManualSorting"
   },
   {
-    "id": "dead_horn_coral_fan",
+    "id": "minecraft:dead_horn_coral_fan",
     "category": "ManualSorting"
   },
   {
-    "id": "blue_ice",
+    "id": "minecraft:blue_ice",
     "category": "ManualSorting"
   },
   {
-    "id": "saddle",
+    "id": "minecraft:saddle",
     "category": "ManualSorting"
   },
   {
-    "id": "white_harness",
+    "id": "minecraft:white_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "orange_harness",
+    "id": "minecraft:orange_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "magenta_harness",
+    "id": "minecraft:magenta_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "light_blue_harness",
+    "id": "minecraft:light_blue_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "yellow_harness",
+    "id": "minecraft:yellow_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "lime_harness",
+    "id": "minecraft:lime_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "pink_harness",
+    "id": "minecraft:pink_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "gray_harness",
+    "id": "minecraft:gray_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "light_gray_harness",
+    "id": "minecraft:light_gray_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "cyan_harness",
+    "id": "minecraft:cyan_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "purple_harness",
+    "id": "minecraft:purple_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "blue_harness",
+    "id": "minecraft:blue_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "brown_harness",
+    "id": "minecraft:brown_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "green_harness",
+    "id": "minecraft:green_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "red_harness",
+    "id": "minecraft:red_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "black_harness",
+    "id": "minecraft:black_harness",
     "category": "ManualSorting"
   },
   {
-    "id": "phantom_membrane",
+    "id": "minecraft:phantom_membrane",
     "category": "ManualSorting"
   },
   {
-    "id": "jigsaw",
+    "id": "minecraft:jigsaw",
     "category": "ManualSorting"
   },
   {
-    "id": "turtle_scute",
+    "id": "minecraft:turtle_scute",
     "category": "ManualSorting"
   },
   {
-    "id": "armadillo_scute",
+    "id": "minecraft:armadillo_scute",
     "category": "ManualSorting"
   },
   {
-    "id": "bread",
+    "id": "minecraft:bread",
     "category": "ManualSorting"
   },
   {
-    "id": "flint",
+    "id": "minecraft:flint",
     "category": "ManualSorting"
   },
   {
-    "id": "painting",
+    "id": "minecraft:painting",
     "category": "ManualSorting"
   },
   {
-    "id": "bucket",
+    "id": "minecraft:bucket",
     "category": "ManualSorting"
   },
   {
-    "id": "water_bucket",
+    "id": "minecraft:water_bucket",
     "category": "ManualSorting"
   },
   {
-    "id": "lava_bucket",
+    "id": "minecraft:lava_bucket",
     "category": "ManualSorting"
   },
   {
-    "id": "powder_snow_bucket",
+    "id": "minecraft:powder_snow_bucket",
     "category": "ManualSorting"
   },
   {
-    "id": "snowball",
+    "id": "minecraft:snowball",
     "category": "ManualSorting"
   },
   {
-    "id": "milk_bucket",
+    "id": "minecraft:milk_bucket",
     "category": "ManualSorting"
   },
   {
-    "id": "salmon_bucket",
+    "id": "minecraft:salmon_bucket",
     "category": "ManualSorting"
   },
   {
-    "id": "cod_bucket",
+    "id": "minecraft:cod_bucket",
     "category": "ManualSorting"
   },
   {
-    "id": "axolotl_bucket",
+    "id": "minecraft:axolotl_bucket",
     "category": "ManualSorting"
   },
   {
-    "id": "tadpole_bucket",
+    "id": "minecraft:tadpole_bucket",
     "category": "ManualSorting"
   },
   {
-    "id": "clay_ball",
+    "id": "minecraft:clay_ball",
     "category": "ManualSorting"
   },
   {
-    "id": "slime_ball",
+    "id": "minecraft:slime_ball",
     "category": "ManualSorting"
   },
   {
-    "id": "compass",
+    "id": "minecraft:compass",
     "category": "ManualSorting"
   },
   {
-    "id": "recovery_compass",
+    "id": "minecraft:recovery_compass",
     "category": "ManualSorting"
   },
   {
-    "id": "bundle",
+    "id": "minecraft:bundle",
     "category": "ManualSorting"
   },
   {
-    "id": "clock",
+    "id": "minecraft:clock",
     "category": "ManualSorting"
   },
   {
-    "id": "spyglass",
+    "id": "minecraft:spyglass",
     "category": "ManualSorting"
   },
   {
-    "id": "cod",
+    "id": "minecraft:cod",
     "category": "ManualSorting"
   },
   {
-    "id": "salmon",
+    "id": "minecraft:salmon",
     "category": "ManualSorting"
   },
   {
-    "id": "cocoa_beans",
+    "id": "minecraft:cocoa_beans",
     "category": "ManualSorting"
   },
   {
-    "id": "bone_meal",
+    "id": "minecraft:bone_meal",
     "category": "ManualSorting"
   },
   {
-    "id": "filled_map",
+    "id": "minecraft:filled_map",
     "category": "ManualSorting"
   },
   {
-    "id": "shears",
+    "id": "minecraft:shears",
     "category": "ManualSorting"
   },
   {
-    "id": "dried_kelp",
+    "id": "minecraft:dried_kelp",
     "category": "ManualSorting"
   },
   {
-    "id": "rotten_flesh",
+    "id": "minecraft:rotten_flesh",
     "category": "ManualSorting"
   },
   {
-    "id": "brewing_stand",
+    "id": "minecraft:brewing_stand",
     "category": "ManualSorting"
   },
   {
-    "id": "cauldron",
+    "id": "minecraft:cauldron",
     "category": "ManualSorting"
   },
   {
-    "id": "experience_bottle",
+    "id": "minecraft:experience_bottle",
     "category": "ManualSorting"
   },
   {
-    "id": "fire_charge",
+    "id": "minecraft:fire_charge",
     "category": "ManualSorting"
   },
   {
-    "id": "wind_charge",
+    "id": "minecraft:wind_charge",
     "category": "ManualSorting"
   },
   {
-    "id": "writable_book",
+    "id": "minecraft:writable_book",
     "category": "ManualSorting"
   },
   {
-    "id": "written_book",
+    "id": "minecraft:written_book",
     "category": "ManualSorting"
   },
   {
-    "id": "item_frame",
+    "id": "minecraft:item_frame",
     "category": "ManualSorting"
   },
   {
-    "id": "glow_item_frame",
+    "id": "minecraft:glow_item_frame",
     "category": "ManualSorting"
   },
   {
-    "id": "map",
+    "id": "minecraft:map",
     "category": "ManualSorting"
   },
   {
-    "id": "firework_rocket",
+    "id": "minecraft:firework_rocket",
     "category": "ManualSorting"
   },
   {
-    "id": "firework_star",
+    "id": "minecraft:firework_star",
     "category": "ManualSorting"
   },
   {
-    "id": "resin_brick",
+    "id": "minecraft:resin_brick",
     "category": "ManualSorting"
   },
   {
-    "id": "prismarine_shard",
+    "id": "minecraft:prismarine_shard",
     "category": "ManualSorting"
   },
   {
-    "id": "prismarine_crystals",
+    "id": "minecraft:prismarine_crystals",
     "category": "ManualSorting"
   },
   {
-    "id": "armor_stand",
+    "id": "minecraft:armor_stand",
     "category": "ManualSorting"
   },
   {
-    "id": "lead",
+    "id": "minecraft:lead",
     "category": "ManualSorting"
   },
   {
-    "id": "name_tag",
+    "id": "minecraft:name_tag",
     "category": "ManualSorting"
   },
   {
-    "id": "pitcher_pod",
+    "id": "minecraft:pitcher_pod",
     "category": "ManualSorting"
   },
   {
-    "id": "beetroot",
+    "id": "minecraft:beetroot",
     "category": "ManualSorting"
   },
   {
-    "id": "beetroot_soup",
+    "id": "minecraft:beetroot_soup",
     "category": "ManualSorting"
   },
   {
-    "id": "dragon_breath",
+    "id": "minecraft:dragon_breath",
     "category": "ManualSorting"
   },
   {
-    "id": "knowledge_book",
+    "id": "minecraft:knowledge_book",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_13",
+    "id": "minecraft:music_disc_13",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_cat",
+    "id": "minecraft:music_disc_cat",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_blocks",
+    "id": "minecraft:music_disc_blocks",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_chirp",
+    "id": "minecraft:music_disc_chirp",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_creator",
+    "id": "minecraft:music_disc_creator",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_creator_music_box",
+    "id": "minecraft:music_disc_creator_music_box",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_far",
+    "id": "minecraft:music_disc_far",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_mall",
+    "id": "minecraft:music_disc_mall",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_mellohi",
+    "id": "minecraft:music_disc_mellohi",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_stal",
+    "id": "minecraft:music_disc_stal",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_strad",
+    "id": "minecraft:music_disc_strad",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_ward",
+    "id": "minecraft:music_disc_ward",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_11",
+    "id": "minecraft:music_disc_11",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_wait",
+    "id": "minecraft:music_disc_wait",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_otherside",
+    "id": "minecraft:music_disc_otherside",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_relic",
+    "id": "minecraft:music_disc_relic",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_5",
+    "id": "minecraft:music_disc_5",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_pigstep",
+    "id": "minecraft:music_disc_pigstep",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_precipice",
+    "id": "minecraft:music_disc_precipice",
     "category": "ManualSorting"
   },
   {
-    "id": "music_disc_tears",
+    "id": "minecraft:music_disc_tears",
     "category": "ManualSorting"
   },
   {
-    "id": "disc_fragment_5",
+    "id": "minecraft:disc_fragment_5",
     "category": "ManualSorting"
   },
   {
-    "id": "nautilus_shell",
+    "id": "minecraft:nautilus_shell",
     "category": "ManualSorting"
   },
   {
-    "id": "heart_of_the_sea",
+    "id": "minecraft:heart_of_the_sea",
     "category": "ManualSorting"
   },
   {
-    "id": "loom",
+    "id": "minecraft:loom",
     "category": "ManualSorting"
   },
   {
-    "id": "flower_banner_pattern",
+    "id": "minecraft:flower_banner_pattern",
     "category": "ManualSorting"
   },
   {
-    "id": "creeper_banner_pattern",
+    "id": "minecraft:creeper_banner_pattern",
     "category": "ManualSorting"
   },
   {
-    "id": "skull_banner_pattern",
+    "id": "minecraft:skull_banner_pattern",
     "category": "ManualSorting"
   },
   {
-    "id": "mojang_banner_pattern",
+    "id": "minecraft:mojang_banner_pattern",
     "category": "ManualSorting"
   },
   {
-    "id": "globe_banner_pattern",
+    "id": "minecraft:globe_banner_pattern",
     "category": "ManualSorting"
   },
   {
-    "id": "piglin_banner_pattern",
+    "id": "minecraft:piglin_banner_pattern",
     "category": "ManualSorting"
   },
   {
-    "id": "flow_banner_pattern",
+    "id": "minecraft:flow_banner_pattern",
     "category": "ManualSorting"
   },
   {
-    "id": "guster_banner_pattern",
+    "id": "minecraft:guster_banner_pattern",
     "category": "ManualSorting"
   },
   {
-    "id": "field_masoned_banner_pattern",
+    "id": "minecraft:field_masoned_banner_pattern",
     "category": "ManualSorting"
   },
   {
-    "id": "bordure_indented_banner_pattern",
+    "id": "minecraft:bordure_indented_banner_pattern",
     "category": "ManualSorting"
   },
   {
-    "id": "goat_horn",
+    "id": "minecraft:goat_horn",
     "category": "ManualSorting"
   },
   {
-    "id": "lantern",
+    "id": "minecraft:lantern",
     "category": "ManualSorting"
   },
   {
-    "id": "soul_lantern",
+    "id": "minecraft:soul_lantern",
     "category": "ManualSorting"
   },
   {
-    "id": "copper_lantern",
+    "id": "minecraft:copper_lantern",
     "category": "ManualSorting"
   },
   {
-    "id": "exposed_copper_lantern",
+    "id": "minecraft:exposed_copper_lantern",
     "category": "ManualSorting"
   },
   {
-    "id": "weathered_copper_lantern",
+    "id": "minecraft:weathered_copper_lantern",
     "category": "ManualSorting"
   },
   {
-    "id": "oxidized_copper_lantern",
+    "id": "minecraft:oxidized_copper_lantern",
     "category": "ManualSorting"
   },
   {
-    "id": "campfire",
+    "id": "minecraft:campfire",
     "category": "ManualSorting"
   },
   {
-    "id": "soul_campfire",
+    "id": "minecraft:soul_campfire",
     "category": "ManualSorting"
   },
   {
-    "id": "shroomlight",
+    "id": "minecraft:shroomlight",
     "category": "ManualSorting"
   },
   {
-    "id": "honeycomb",
+    "id": "minecraft:honeycomb",
     "category": "ManualSorting"
   },
   {
-    "id": "bee_nest",
+    "id": "minecraft:bee_nest",
     "category": "ManualSorting"
   },
   {
-    "id": "beehive",
+    "id": "minecraft:beehive",
     "category": "ManualSorting"
   },
   {
-    "id": "honey_bottle",
+    "id": "minecraft:honey_bottle",
     "category": "ManualSorting"
   },
   {
-    "id": "crying_obsidian",
+    "id": "minecraft:crying_obsidian",
     "category": "ManualSorting"
   },
   {
-    "id": "respawn_anchor",
+    "id": "minecraft:respawn_anchor",
     "category": "ManualSorting"
   },
   {
-    "id": "small_amethyst_bud",
+    "id": "minecraft:small_amethyst_bud",
     "category": "ManualSorting"
   },
   {
-    "id": "medium_amethyst_bud",
+    "id": "minecraft:medium_amethyst_bud",
     "category": "ManualSorting"
   },
   {
-    "id": "large_amethyst_bud",
+    "id": "minecraft:large_amethyst_bud",
     "category": "ManualSorting"
   },
   {
-    "id": "amethyst_cluster",
+    "id": "minecraft:amethyst_cluster",
     "category": "ManualSorting"
   },
   {
-    "id": "ochre_froglight",
+    "id": "minecraft:ochre_froglight",
     "category": "ManualSorting"
   },
   {
-    "id": "verdant_froglight",
+    "id": "minecraft:verdant_froglight",
     "category": "ManualSorting"
   },
   {
-    "id": "pearlescent_froglight",
+    "id": "minecraft:pearlescent_froglight",
     "category": "ManualSorting"
   },
   {
-    "id": "frogspawn",
+    "id": "minecraft:frogspawn",
     "category": "ManualSorting"
   },
   {
-    "id": "echo_shard",
+    "id": "minecraft:echo_shard",
     "category": "ManualSorting"
   },
   {
-    "id": "brush",
+    "id": "minecraft:brush",
     "category": "ManualSorting"
   },
   {
-    "id": "angler_pottery_sherd",
+    "id": "minecraft:angler_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "archer_pottery_sherd",
+    "id": "minecraft:archer_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "arms_up_pottery_sherd",
+    "id": "minecraft:arms_up_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "blade_pottery_sherd",
+    "id": "minecraft:blade_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "brewer_pottery_sherd",
+    "id": "minecraft:brewer_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "burn_pottery_sherd",
+    "id": "minecraft:burn_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "danger_pottery_sherd",
+    "id": "minecraft:danger_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "flow_pottery_sherd",
+    "id": "minecraft:flow_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "guster_pottery_sherd",
+    "id": "minecraft:guster_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "heart_pottery_sherd",
+    "id": "minecraft:heart_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "heartbreak_pottery_sherd",
+    "id": "minecraft:heartbreak_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "howl_pottery_sherd",
+    "id": "minecraft:howl_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "miner_pottery_sherd",
+    "id": "minecraft:miner_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "mourner_pottery_sherd",
+    "id": "minecraft:mourner_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "plenty_pottery_sherd",
+    "id": "minecraft:plenty_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "prize_pottery_sherd",
+    "id": "minecraft:prize_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "scrape_pottery_sherd",
+    "id": "minecraft:scrape_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "sheaf_pottery_sherd",
+    "id": "minecraft:sheaf_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "shelter_pottery_sherd",
+    "id": "minecraft:shelter_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "skull_pottery_sherd",
+    "id": "minecraft:skull_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "snort_pottery_sherd",
+    "id": "minecraft:snort_pottery_sherd",
     "category": "ManualSorting"
   },
   {
-    "id": "copper_grate",
+    "id": "minecraft:copper_grate",
     "category": "ManualSorting"
   },
   {
-    "id": "exposed_copper_grate",
+    "id": "minecraft:exposed_copper_grate",
     "category": "ManualSorting"
   },
   {
-    "id": "weathered_copper_grate",
+    "id": "minecraft:weathered_copper_grate",
     "category": "ManualSorting"
   },
   {
-    "id": "oxidized_copper_grate",
+    "id": "minecraft:oxidized_copper_grate",
     "category": "ManualSorting"
   },
   {
-    "id": "copper_bulb",
+    "id": "minecraft:copper_bulb",
     "category": "ManualSorting"
   },
   {
-    "id": "exposed_copper_bulb",
+    "id": "minecraft:exposed_copper_bulb",
     "category": "ManualSorting"
   },
   {
-    "id": "weathered_copper_bulb",
+    "id": "minecraft:weathered_copper_bulb",
     "category": "ManualSorting"
   },
   {
-    "id": "oxidized_copper_bulb",
+    "id": "minecraft:oxidized_copper_bulb",
     "category": "ManualSorting"
   },
   {
-    "id": "copper_golem_statue",
+    "id": "minecraft:copper_golem_statue",
     "category": "ManualSorting"
   },
   {
-    "id": "exposed_copper_golem_statue",
+    "id": "minecraft:exposed_copper_golem_statue",
     "category": "ManualSorting"
   },
   {
-    "id": "weathered_copper_golem_statue",
+    "id": "minecraft:weathered_copper_golem_statue",
     "category": "ManualSorting"
   },
   {
-    "id": "oxidized_copper_golem_statue",
+    "id": "minecraft:oxidized_copper_golem_statue",
     "category": "ManualSorting"
   },
   {
-    "id": "trial_key",
+    "id": "minecraft:trial_key",
     "category": "ManualSorting"
   },
   {
-    "id": "ominous_trial_key",
+    "id": "minecraft:ominous_trial_key",
     "category": "ManualSorting"
   },
   {
-    "id": "vault",
+    "id": "minecraft:vault",
     "category": "ManualSorting"
   },
   {
-    "id": "ominous_bottle",
+    "id": "minecraft:ominous_bottle",
     "category": "ManualSorting"
   },
   {
