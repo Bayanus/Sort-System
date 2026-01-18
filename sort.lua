@@ -67,13 +67,13 @@ while true do
     -- Debug ──────────────────────────────────────────────────────────────
     print("──────────────────────────────────────────────")
     print("Item: " .. item.name .. " (count: " .. item.count .. ")")
-    print("  Category from JSON: " .. (category or "NIL — нет в filtClean.json"))
+    print("  Category from JSON: " .. (category or "NIL — no in filtClean.json"))
     if category then
         local chestNum = CATEGORY_CHESTS[category]
-        print("  Found in category_chests: " .. (chestNum and tostring(chestNum) or "НЕТ ТАКОГО КЛЮЧА → fallback"))
+        print("  Found in category_chests: " .. (chestNum and tostring(chestNum) or "no this key → fallback"))
         print("  Full key used for lookup: '" .. category .. "'")
     else
-        print("  → Reason: предмет отсутствует в JSON или ID не совпадает")
+        print("  → Reason: items pizda rulyam")
     end
   -- ─────────────────────────────────────────────────────────────────────
     local targetChest
