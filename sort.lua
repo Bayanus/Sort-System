@@ -61,20 +61,21 @@ end
 
 while true do
   local items = input.list()
-  -- Debug ──────────────────────────────────────────────────────────────
-  print("──────────────────────────────────────────────")
-  print("Item: " .. item.name .. " (count: " .. item.count .. ")")
-  print("  Category from JSON: " .. (category or "NIL — нет в filtClean.json"))
-  if category then
-      local chestNum = CATEGORY_CHESTS[category]
-      print("  Found in category_chests: " .. (chestNum and tostring(chestNum) or "НЕТ ТАКОГО КЛЮЧА → fallback"))
-      print("  Full key used for lookup: '" .. category .. "'")
-  else
-      print("  → Reason: предмет отсутствует в JSON или ID не совпадает")
-  end
-  -- ─────────────────────────────────────────────────────────────────────
+  
   for slot, item in pairs(items) do
     local category = ITEM_TO_CATEGORY[item.name]
+    -- Debug ──────────────────────────────────────────────────────────────
+    print("──────────────────────────────────────────────")
+    print("Item: " .. item.name .. " (count: " .. item.count .. ")")
+    print("  Category from JSON: " .. (category or "NIL — нет в filtClean.json"))
+    if category then
+        local chestNum = CATEGORY_CHESTS[category]
+        print("  Found in category_chests: " .. (chestNum and tostring(chestNum) or "НЕТ ТАКОГО КЛЮЧА → fallback"))
+        print("  Full key used for lookup: '" .. category .. "'")
+    else
+        print("  → Reason: предмет отсутствует в JSON или ID не совпадает")
+    end
+  -- ─────────────────────────────────────────────────────────────────────
     local targetChest
     local categoryName
 
