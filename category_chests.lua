@@ -18,7 +18,7 @@ return {
     ["Blocks/Building/PartialBlocks"] = 43,
 
     -- Other Blocks subgroups
-    ["Blocks/Functional"]            = 36,
+    ["Blocks/Functional"]            = 41,
     ["Blocks/Overworld/Natural"]     = 42,
     ["Blocks/Nether/OtherNez"]       = 40,   -- или 11, если 10 занят
     ["Blocks/End/OtherEnd"]          = 38,
