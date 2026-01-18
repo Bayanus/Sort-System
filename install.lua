@@ -7,7 +7,7 @@ local BASE_URL = "https://raw.githubusercontent.com/Bayanus/Sort-System/main/"
 local FILES = {
   { remote = "sort.lua", localf = "sort.lua", overwrite = true },
   { remote = "category_chests.lua", localf = "category_chests.lua", overwrite = true },
-  { remote = "startup.lua", localf = "startup.lua", overwrite = true },
+  --{ remote = "startup.lua", localf = "startup.lua", overwrite = true },
 
   -- configs (do NOT overwrite by default)
   { remote = "filtClean.json", localf = "filtClean.json", overwrite = false },
